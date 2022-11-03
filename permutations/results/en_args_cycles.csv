@@ -1,0 +1,881 @@
+,Unnamed: 0,ID,MR_GOLD,MR_MN,MN,PERM,CYCLES,CAYLEY
+0,0,0,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+1,1,1,answer high_point_1 state next_to_2 stateid(state_name),answer high_point_1 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+2,2,2,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+3,3,3,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+4,4,4,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+5,5,5,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+6,6,6,answer count state low_point_2 lower_2 low_point_1 stateid(state_name),count state answer low_point_2 lower_2 low_point_1 stateid(state_name),0,"[2, 3, 1, 4, 5, 6, 7]","(1, 2, 3) (4) (5) (6) (7)",2
+7,7,7,answer state loc_2 countryid(country_name),answer state loc_2 countryid(country_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+8,8,8,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+9,9,9,answer city loc_2 countryid(country_name),answer city loc_2 countryid(country_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+10,10,10,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+11,11,11,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+12,12,12,answer lake loc_2 stateid(state_name),answer lake loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+13,13,13,answer largest state(all),answer largest state(all),1,"[1, 2, 3]",(1) (2) (3),0
+14,14,14,answer longest river traverse_2 countryid(country_name),answer longest river traverse_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+15,15,15,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+16,16,16,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+17,17,17,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+18,18,18,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+19,19,19,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+20,20,20,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+21,21,21,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+22,22,22,"answer size city cityid(city_name, _)","answer size city cityid(city_name, _)",1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+23,23,23,answer elevation_1 highest place loc_2 state(all),answer elevation_1 highest place loc_2 state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+24,24,24,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1,"[1, 2, 3]",(1) (2) (3),0
+25,25,25,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1,"[1, 2, 3]",(1) (2) (3),0
+26,26,26,answer elevation_1 highest place loc_2 countryid(country_name),answer elevation_1 highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+27,27,27,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+28,28,28,answer elevation_1 highest place loc_2 largest state(all),answer elevation_1 highest place loc_2 largest state(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+29,29,29,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+30,30,30,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+31,31,31,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+32,32,32,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+33,33,33,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+34,34,34,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+35,35,35,answer size largest city loc_2 stateid(state_name),answer size largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+36,36,36,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+37,37,37,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+38,38,38,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+39,39,39,answer len longest river loc_2 stateid(state_name),answer len longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+40,40,40,answer len longest river loc_2 countryid(country_name),answer len longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+41,41,41,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+42,42,42,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+43,43,43,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+44,44,44,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+45,45,45,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+46,46,46,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+47,47,47,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+48,48,48,answer len shortest river loc_2 countryid(country_name),answer len shortest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+49,49,49,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+50,50,50,answer count capital loc_2 stateid(state_name),answer count capital stateid(state_name) loc_2,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+51,51,51,answer count city loc_2 stateid(state_name),answer count city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+52,52,52,answer count city loc_2 stateid(state_name),answer count city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+53,53,53,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+54,54,54,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+55,55,55,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+56,56,56,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+57,57,57,answer count city loc_2 stateid(state_name),answer count city stateid(state_name) loc_2,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+58,58,58,answer count city loc_2 countryid(country_name),answer count city countryid(country_name) loc_2,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+59,59,59,"answer count intersection city cityid(city_name, _) loc_2 countryid(country_name)","answer count intersection city cityid(city_name, _) loc_2 countryid(country_name)",1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+60,60,60,answer population_1 largest city(all),answer population_1 largest city(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+61,61,61,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+62,62,62,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+63,63,63,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+64,64,64,answer count river riverid(river_name),answer count riverid(river_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+65,65,65,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+66,66,66,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+67,67,67,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+68,68,68,answer count major city loc_2 state next_to_2 stateid(state_name),answer count major city loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+69,69,69,answer count major city loc_2 state next_to_2 stateid(state_name),answer count major city loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+70,70,70,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+71,71,71,answer count major city(all),answer count major city(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+72,72,72,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+73,73,73,answer count major river traverse_2 stateid(state_name),answer count major river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+74,74,74,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+75,75,75,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+76,76,76,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+77,77,77,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+78,78,78,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+79,79,79,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+80,80,80,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+81,81,81,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+82,82,82,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+83,83,83,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+84,84,84,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+85,85,85,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+86,86,86,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+87,87,87,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+88,88,88,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+89,89,89,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+90,90,90,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+91,91,91,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+92,92,92,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+93,93,93,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+94,94,94,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+95,95,95,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+96,96,96,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+97,97,97,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+98,98,98,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+99,99,99,answer population_1 largest city loc_2 stateid(state_name),answer population_1 largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+100,100,100,answer population_1 capital loc_2 stateid(state_name),answer population_1 capital loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+101,101,101,answer population_1 capital loc_2 stateid(state_name),answer population_1 capital loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+102,102,102,answer population_1 smallest state next_to_2 stateid(state_name),answer population_1 smallest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+103,103,103,answer population_1 largest_one density_1 state(all),answer population_1 state(all) largest_one density_1,0,"[1, 2, 5, 3, 4]","(1) (2) (3, 5, 4)",2
+104,104,104,answer population_1 countryid(country_name),answer population_1 countryid(country_name),1,"[1, 2, 3]",(1) (2) (3),0
+105,105,105,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+106,106,106,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+107,107,107,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+108,108,108,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+109,109,109,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+110,110,110,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+111,111,111,answer count riverid(river_name),answer count riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+112,112,112,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+113,113,113,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+114,114,114,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+115,115,115,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+116,116,116,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+117,117,117,answer count river loc_2 most state loc_1 river(all),answer count river loc_2 state loc_1 most river(all),0,"[1, 2, 3, 4, 6, 7, 5, 8]","(1) (2) (3) (4) (5, 6, 7) (8)",2
+118,118,118,answer count river loc_2 state loc_1 highest place(all),answer count river loc_2 state loc_1 highest place(all),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+119,119,119,answer count river loc_2 largest_one population_1 state(all),answer count river loc_2 state(all) largest_one population_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+120,120,120,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+121,121,121,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+122,122,122,answer count river loc_2 countryid(country_name),answer count river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+123,123,123,"answer count exclude river(all) traverse_2 state loc_1 capital cityid(city_name, _)","answer count river(all) exclude traverse_2 state loc_1 capital cityid(city_name, _)",0,"[1, 2, 4, 3, 5, 6, 7, 8, 9, 10]","(1) (2) (3, 4) (5) (6) (7) (8) (9) (10)",1
+124,124,124,answer count river loc_2 stateid(state_name),answer count river stateid(state_name) loc_2,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+125,125,125,answer count river loc_2 stateid(state_name),answer count river stateid(state_name) loc_2,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+126,126,126,answer count intersection river loc_2 stateid(state_name) longer riverid(river_name),answer count intersection river loc_2 stateid(state_name) longer riverid(river_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+127,127,127,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+128,128,128,answer count river traverse_2 stateid(state_name),answer count river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+129,129,129,answer count river traverse_2 state next_to_2 stateid(state_name),answer count river traverse_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+130,130,130,answer area_1 countryid(country_name),answer area_1 countryid(country_name),1,"[1, 2, 3]",(1) (2) (3),0
+131,131,131,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+132,132,132,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+133,133,133,answer count state next_to_2 major river(all),answer count state next_to_2 major river(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+134,134,134,answer count state(all),answer count state(all),1,"[1, 2, 3]",(1) (2) (3),0
+135,135,135,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+136,136,136,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+137,137,137,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+138,138,138,answer count state next_to_2 state(all),answer count state next_to_2 state(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+139,139,139,answer count state intersection next_to_2 stateid(state_name) next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name) intersection next_to_2 stateid(state_name),0,"[1, 2, 3, 5, 6, 4, 7, 8]","(1) (2) (3) (4, 5, 6) (7) (8)",2
+140,140,140,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+141,141,141,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+142,142,142,"answer count state next_to_2 state loc_1 capital cityid(city_name, _)","answer count state next_to_2 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+143,143,143,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+144,144,144,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+145,145,145,answer count state next_to_2 largest state(all),answer count state next_to_2 largest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+146,146,146,answer count state next_to_2 riverid(river_name),answer count state next_to_2 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+147,147,147,answer count state next_to_2 most state next_to_2 state(all),answer count state next_to_2 state next_to_2 most state(all),0,"[1, 2, 3, 4, 6, 7, 5, 8]","(1) (2) (3) (4) (5, 6, 7) (8)",2
+148,148,148,answer count state next_to_2 largest_one population_1 state(all),answer count state next_to_2 state(all) largest_one population_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+149,149,149,answer count exclude state(all) loc_1 river(all),answer count state(all) exclude loc_1 river(all),0,"[1, 2, 4, 3, 5, 6]","(1) (2) (3, 4) (5) (6)",1
+150,150,150,answer count state next_to_1 stateid(state_name),answer count state stateid(state_name) next_to_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+151,151,151,answer count state next_to_1 stateid(state_name),answer count state stateid(state_name) next_to_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+152,152,152,answer count state next_to_1 stateid(state_name),answer count state stateid(state_name) next_to_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+153,153,153,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+154,154,154,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+155,155,155,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+156,156,156,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+157,157,157,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+158,158,158,answer count state loc_2 countryid(country_name),answer count state countryid(country_name) loc_2,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+159,159,159,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+160,160,160,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+161,161,161,answer count state loc_1 place higher_2 highest place loc_2 state loc_1 largest capital city loc_2 countryid(country_name),answer count state loc_1 higher_2 place highest loc_1 place loc_2 state largest capital city loc_2 countryid(country_name),0,"[1, 2, 3, 4, 6, 5, 7, 11, 8, 9, 10, 12, 13, 14, 15, 16]","(1) (2) (3) (4) (5, 6) (7) (8, 11, 10, 9) (12) (13) (14) (15) (16)",4
+162,162,162,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+163,163,163,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+164,164,164,answer count state loc_1 major river(all),answer count state loc_1 major river(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+165,165,165,answer count intersection state loc_2 countryid(country_name) traverse_1 shortest river(all),answer count intersection state loc_2 countryid(country_name) shortest river(all) traverse_1,0,"[1, 2, 3, 4, 5, 6, 8, 9, 7]","(1) (2) (3) (4) (5) (6) (7, 8, 9)",2
+166,166,166,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+167,167,167,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1,"[1, 2, 3]",(1) (2) (3),0
+168,168,168,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+169,169,169,answer state loc_1 placeid(place_name),loc_1 answer state placeid(place_name),0,"[3, 1, 2, 4]","(1, 3, 2) (4)",2
+170,170,170,answer state loc_1 highest place loc_2 countryid(country_name),loc_1 answer state highest place loc_2 countryid(country_name),0,"[3, 1, 2, 4, 5, 6, 7]","(1, 3, 2) (4) (5) (6) (7)",2
+171,171,171,"answer state loc_1 cityid(city_name, _)","loc_1 answer state cityid(city_name, _)",0,"[3, 1, 2, 4, 5]","(1, 3, 2) (4) (5)",2
+172,172,172,answer count state next_to_1 stateid(state_name),stateid(state_name) next_to_1 answer count state,0,"[5, 4, 1, 2, 3]","(1, 5, 3) (2, 4)",3
+173,173,173,answer state(all),answer state(all),1,"[1, 2]",(1) (2),0
+174,174,174,answer lake loc_2 countryid(country_name),answer lake loc_2 countryid(country_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+175,175,175,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+176,176,176,answer capital loc_2 countryid(country_name),answer capital loc_2 countryid(country_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+177,177,177,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+178,178,178,answer major lake loc_2 stateid(state_name),answer major lake loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+179,179,179,answer major river loc_2 stateid(state_name),answer major river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+180,180,180,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+181,181,181,answer exclude state(all) next_to_2 state(all),answer state(all) exclude next_to_2 state(all),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+182,182,182,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+183,183,183,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+184,184,184,answer count state next_to_2 stateid(state_name),answer count next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+185,185,185,answer state loc_1 lowest place loc_2 state traverse_1 riverid(river_name),state traverse_1 loc_2 riverid(river_name) answer state loc_1 lowest place,0,"[2, 8, 6, 9, 1, 7, 3, 4, 5]","(1, 2, 8, 4, 9, 5) (3, 6, 7)",7
+186,186,186,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+187,187,187,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+188,188,188,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+189,189,189,"answer state loc_1 capital cityid(city_name, _)","cityid(city_name, _) capital loc_1 answer state",0,"[5, 6, 4, 3, 1, 2]","(1, 5) (2, 6) (3, 4)",3
+190,190,190,"answer state loc_1 cityid(city_name, _)","cityid(city_name, _) loc_1 answer state",0,"[4, 5, 3, 1, 2]","(1, 4) (2, 5) (3)",2
+191,191,191,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+192,192,192,answer major lake loc_2 countryid(country_name),answer major lake loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+193,193,193,answer largest_one area_1 state(all),answer state(all) largest_one area_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+194,194,194,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+195,195,195,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+196,196,196,answer state traverse_1 longest river loc_2 stateid(state_name),traverse_1 answer state longest river loc_2 stateid(state_name),0,"[3, 1, 2, 4, 5, 6, 7]","(1, 3, 2) (4) (5) (6) (7)",2
+197,197,197,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+198,198,198,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+199,199,199,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+200,200,200,answer major river loc_2 stateid(state_name),answer major river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+201,201,201,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+202,202,202,answer capital city loc_2 state next_to_2 stateid(state_name),answer capital city loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+203,203,203,answer capital city loc_2 stateid(state_name),answer capital city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+204,204,204,answer capital loc_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+205,205,205,answer capital loc_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+206,206,206,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+207,207,207,answer city loc_2 state traverse_1 riverid(river_name),answer city loc_2 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+208,208,208,answer city loc_2 state loc_1 highest place(all),answer city loc_2 state loc_1 highest place(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+209,209,209,answer highest place loc_2 state(all),answer highest place loc_2 state(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+210,210,210,answer highest place loc_2 state next_to_2 stateid(state_name),answer highest place loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+211,211,211,answer lake loc_2 state next_to_2 stateid(state_name),answer lake loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+212,212,212,answer largest city loc_2 state next_to_2 largest state(all),answer largest city loc_2 state next_to_2 largest state(all),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+213,213,213,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+214,214,214,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+215,215,215,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+216,216,216,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+217,217,217,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+218,218,218,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+219,219,219,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+220,220,220,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+221,221,221,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+222,222,222,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+223,223,223,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+224,224,224,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+225,225,225,answer major city loc_2 state traverse_1 riverid(river_name),answer major city loc_2 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+226,226,226,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+227,227,227,answer major city loc_2 largest state(all),answer major city loc_2 largest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+228,228,228,answer major city loc_2 smallest state loc_2 countryid(country_name),answer major city loc_2 smallest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+229,229,229,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+230,230,230,answer major city loc_2 state traverse_1 major river loc_2 stateid(state_name),answer major city loc_2 state traverse_1 major river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",(1) (2) (3) (4) (5) (6) (7) (8) (9) (10),0
+231,231,231,answer major city loc_2 countryid(country_name),answer major city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+232,232,232,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+233,233,233,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+234,234,234,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+235,235,235,answer major city loc_2 countryid(country_name),answer major city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+236,236,236,answer major city loc_2 countryid(country_name),answer major city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+237,237,237,answer major lake loc_2 countryid(country_name),answer major lake loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+238,238,238,answer major river loc_2 stateid(state_name),answer major river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+239,239,239,answer major river loc_2 countryid(country_name),answer major river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+240,240,240,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+241,241,241,answer state next_to_2 stateid(state_name),answer next_to_2 state stateid(state_name),0,"[1, 3, 2, 4]","(1) (2, 3) (4)",1
+242,242,242,answer density_1 state(all),answer density_1 state(all),1,"[1, 2, 3]",(1) (2) (3),0
+243,243,243,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+244,244,244,answer population_1 major city loc_2 stateid(state_name),answer population_1 major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+245,245,245,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+246,246,246,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+247,247,247,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+248,248,248,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+249,249,249,answer population_1 state next_to_2 stateid(state_name),answer population_1 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+250,250,250,answer population_1 major city loc_2 stateid(state_name),answer population_1 major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+251,251,251,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+252,252,252,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+253,253,253,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+254,254,254,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+255,255,255,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+256,256,256,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+257,257,257,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+258,258,258,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+259,259,259,answer state(all),answer state(all),1,"[1, 2]",(1) (2),0
+260,260,260,answer state next_to_2 largest_one population_1 state(all),answer state next_to_2 state(all) largest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+261,261,261,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+262,262,262,answer state traverse_1 longest river(all),answer state traverse_1 longest river(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+263,263,263,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+264,264,264,answer largest_one population_1 capital(all),answer capital(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+265,265,265,answer largest capital loc_2 countryid(country_name),answer capital largest loc_2 countryid(country_name),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+266,266,266,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+267,267,267,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+268,268,268,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+269,269,269,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+270,270,270,answer largest_one population_1 city(all),answer city(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+271,271,271,answer smallest_one population_1 city(all),answer city(all) smallest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+272,272,272,answer largest_one population_1 city(all),answer city(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+273,273,273,answer largest_one density_1 city loc_2 countryid(country_name),answer city loc_2 countryid(country_name) largest_one density_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+274,274,274,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+275,275,275,answer capital loc_2 state loc_1 lowest place(all),answer capital loc_2 state loc_1 lowest place(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+276,276,276,answer largest capital(all),answer largest capital(all),1,"[1, 2, 3]",(1) (2) (3),0
+277,277,277,answer state next_to_2 stateid(state_name),answer next_to_2 state stateid(state_name),0,"[1, 3, 2, 4]","(1) (2, 3) (4)",1
+278,278,278,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+279,279,279,answer sum area_1 state(all),answer area_1 state(all) sum,0,"[1, 3, 4, 2]","(1) (2, 3, 4)",2
+280,280,280,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+281,281,281,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+282,282,282,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+283,283,283,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+284,284,284,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+285,285,285,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+286,286,286,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+287,287,287,"answer area_1 cityid(city_name, _)","answer area_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+288,288,288,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+289,289,289,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+290,290,290,answer area_1 largest state(all),answer area_1 largest state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+291,291,291,answer area_1 smallest state(all),answer area_1 smallest state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+292,292,292,"answer area_1 state loc_1 capital cityid(city_name, _)","answer area_1 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+293,293,293,answer area_1 smallest_one density_1 state(all),answer area_1 state(all) smallest_one density_1,0,"[1, 2, 5, 3, 4]","(1) (2) (3, 5, 4)",2
+294,294,294,answer area_1 state(all),answer area_1 state(all),1,"[1, 2, 3]",(1) (2) (3),0
+295,295,295,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+296,296,296,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+297,297,297,answer density_1 countryid(country_name),answer density_1 countryid(country_name),1,"[1, 2, 3]",(1) (2) (3),0
+298,298,298,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+299,299,299,answer density_1 countryid(country_name),answer density_1 countryid(country_name),1,"[1, 2, 3]",(1) (2) (3),0
+300,300,300,answer largest city loc_2 state loc_1 river(all),answer largest city loc_2 state loc_1 river(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+301,301,301,answer largest capital city loc_2 countryid(country_name),answer largest capital city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+302,302,302,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+303,303,303,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+304,304,304,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+305,305,305,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+306,306,306,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+307,307,307,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+308,308,308,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+309,309,309,answer largest city loc_2 smallest state(all),answer largest city loc_2 smallest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+310,310,310,answer largest city loc_2 countryid(country_name),answer largest city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+311,311,311,answer largest city loc_2 countryid(country_name),answer largest city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+312,312,312,answer largest city loc_2 countryid(country_name),answer largest city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+313,313,313,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+314,314,314,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+315,315,315,answer largest state(all),answer largest state(all),1,"[1, 2, 3]",(1) (2) (3),0
+316,316,316,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+317,317,317,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+318,318,318,answer capital city loc_2 largest state loc_2 countryid(country_name),answer capital city loc_2 largest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+319,319,319,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+320,320,320,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+321,321,321,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+322,322,322,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+323,323,323,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+324,324,324,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+325,325,325,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+326,326,326,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+327,327,327,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+328,328,328,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+329,329,329,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+330,330,330,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+331,331,331,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+332,332,332,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+333,333,333,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+334,334,334,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+335,335,335,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+336,336,336,"answer capital loc_2 state loc_1 city cityid(city_name, _)","answer capital loc_2 state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+337,337,337,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+338,338,338,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+339,339,339,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+340,340,340,answer capital loc_2 largest state(all),answer capital loc_2 largest state(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+341,341,341,answer capital loc_2 smallest state(all),answer capital loc_2 smallest state(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+342,342,342,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+343,343,343,answer capital loc_2 most state next_to_2 state(all),answer capital loc_2 state next_to_2 most state(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+344,344,344,answer capital loc_2 state next_to_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+345,345,345,answer capital loc_2 state loc_1 highest place(all),answer capital loc_2 state loc_1 highest place(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+346,346,346,answer capital loc_2 state loc_1 highest place(all),answer capital loc_2 state loc_1 highest place(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+347,347,347,answer capital loc_2 largest_one population_1 state(all),answer capital loc_2 state(all) largest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+348,348,348,answer capital loc_2 largest_one density_1 state(all),answer capital loc_2 state(all) largest_one density_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+349,349,349,answer capital loc_2 state loc_1 longest river(all),answer capital loc_2 state loc_1 longest river(all),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+350,350,350,answer capital loc_2 largest_one population_1 state(all),answer capital loc_2 state(all) largest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+351,351,351,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+352,352,352,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+353,353,353,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+354,354,354,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+355,355,355,answer smallest_one population_1 city(all),answer city(all) smallest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+356,356,356,answer sum area_1 state(all),answer sum area_1 state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+357,357,357,answer sum population_1 state(all),answer sum population_1 state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+358,358,358,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+359,359,359,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+360,360,360,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1,"[1, 2, 3]",(1) (2) (3),0
+361,361,361,answer elevation_1 highest place loc_2 countryid(country_name),answer elevation_1 highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+362,362,362,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1,"[1, 2, 3]",(1) (2) (3),0
+363,363,363,answer elevation_1 highest mountain loc_2 stateid(state_name),answer elevation_1 highest mountain loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+364,364,364,answer elevation_1 highest place loc_2 countryid(country_name),answer elevation_1 highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+365,365,365,answer high_point_1 stateid(state_name),answer high_point_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+366,366,366,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+367,367,367,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+368,368,368,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+369,369,369,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+370,370,370,answer highest mountain loc_2 stateid(state_name),answer highest mountain loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+371,371,371,answer highest mountain loc_2 stateid(state_name),answer highest mountain loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+372,372,372,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+373,373,373,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+374,374,374,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+375,375,375,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+376,376,376,answer highest place loc_2 state loc_1 place elevation_2 0,answer highest place loc_2 state loc_1 elevation_2 place 0,0,"[1, 2, 3, 4, 5, 6, 8, 7, 9]","(1) (2) (3) (4) (5) (6) (7, 8) (9)",1
+377,377,377,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+378,378,378,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+379,379,379,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+380,380,380,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+381,381,381,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+382,382,382,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+383,383,383,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+384,384,384,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+385,385,385,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+386,386,386,answer highest place loc_2 state next_to_2 stateid(state_name),answer highest place loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+387,387,387,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+388,388,388,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+389,389,389,answer highest place loc_2 smallest state(all),answer highest place loc_2 smallest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+390,390,390,"answer highest place loc_2 state loc_1 capital cityid(city_name, _)","answer highest place loc_2 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+391,391,391,"answer highest place loc_2 state loc_1 capital cityid(city_name, _)","answer highest place loc_2 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+392,392,392,"answer highest place loc_2 state loc_1 capital cityid(city_name, _)","answer highest place loc_2 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+393,393,393,answer highest place loc_2 most state traverse_1 river(all),answer highest place loc_2 traverse_1 state most river(all),0,"[1, 2, 3, 4, 7, 6, 5, 8]","(1) (2) (3) (4) (5, 7) (6) (8)",1
+394,394,394,answer highest place loc_2 smallest_one population_1 state(all),answer highest place loc_2 state(all) smallest_one population_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+395,395,395,answer highest place loc_2 state next_to_2 stateid(state_name),answer highest place loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+396,396,396,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+397,397,397,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+398,398,398,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+399,399,399,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+400,400,400,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+401,401,401,answer highest place loc_2 largest_one area_1 state(all),answer highest place loc_2 state(all) largest_one area_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+402,402,402,answer highest place loc_2 smallest_one density_1 state(all),answer highest place loc_2 state(all) smallest_one density_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+403,403,403,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+404,404,404,answer largest capital(all),answer largest capital(all),1,"[1, 2, 3]",(1) (2) (3),0
+405,405,405,answer largest capital city loc_2 countryid(country_name),answer largest capital city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+406,406,406,answer largest city loc_2 state next_to_2 stateid(state_name),answer largest city loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+407,407,407,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+408,408,408,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+409,409,409,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+410,410,410,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one city loc_2 stateid(state_name) population_1,0,"[1, 2, 4, 5, 6, 3]","(1) (2) (3, 4, 5, 6)",3
+411,411,411,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+412,412,412,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+413,413,413,answer largest city loc_2 smallest state traverse_1 riverid(river_name),answer largest city loc_2 smallest state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+414,414,414,answer largest city loc_2 state next_to_2 stateid(state_name),answer largest city loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+415,415,415,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+416,416,416,answer largest city loc_2 smallest state loc_2 countryid(country_name),answer largest city loc_2 smallest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+417,417,417,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+418,418,418,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+419,419,419,answer largest state traverse_1 riverid(river_name),answer largest state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+420,420,420,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+421,421,421,answer largest state(all),answer largest state(all),1,"[1, 2, 3]",(1) (2) (3),0
+422,422,422,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+423,423,423,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+424,424,424,answer largest_one population_1 capital_1 state(all),answer largest_one state(all) capital_1 population_1,0,"[1, 2, 5, 4, 3]","(1) (2) (3, 5) (4)",1
+425,425,425,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+426,426,426,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+427,427,427,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+428,428,428,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+429,429,429,answer largest state next_to_2 largest_one population_1 state(all),answer largest state next_to_2 state(all) largest_one population_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+430,430,430,answer largest state next_to_2 state loc_1 lowest place loc_2 countryid(country_name),answer largest state next_to_2 state loc_1 lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",(1) (2) (3) (4) (5) (6) (7) (8) (9) (10),0
+431,431,431,answer largest state traverse_1 riverid(river_name),answer largest state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+432,432,432,answer smallest_one population_1 state(all),answer smallest_one population_1 state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+433,433,433,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+434,434,434,"answer len intersection riverid(colorado', river loc_2 stateid(state_name)",answer len intersection riverid(river_name) river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+435,435,435,answer len longest river loc_2 countryid(country_name),answer len longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+436,436,436,answer len longest river traverse_2 stateid(state_name),answer len longest river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+437,437,437,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+438,438,438,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+439,439,439,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+440,440,440,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+441,441,441,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+442,442,442,answer longest river(all),answer longest river(all),1,"[1, 2, 3]",(1) (2) (3),0
+443,443,443,answer longest river traverse_2 stateid(state_name),answer longest river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+444,444,444,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+445,445,445,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+446,446,446,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+447,447,447,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+448,448,448,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+449,449,449,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+450,450,450,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+451,451,451,answer longest river loc_2 largest state(all),answer longest river loc_2 largest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+452,452,452,answer longest river loc_2 smallest state loc_2 countryid(country_name),answer longest river loc_2 smallest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+453,453,453,answer longest river loc_2 state loc_1 highest place(all),answer longest river loc_2 state loc_1 highest place(all),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+454,454,454,answer longest river loc_2 most state loc_1 major city(all),answer longest river loc_2 state loc_1 most major city(all),0,"[1, 2, 3, 4, 6, 7, 5, 8, 9]","(1) (2) (3) (4) (5, 6, 7) (8) (9)",2
+455,455,455,answer longest river loc_2 state next_to_2 stateid(state_name),answer longest river loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+456,456,456,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+457,457,457,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+458,458,458,answer longest exclude river(all) traverse_2 stateid(state_name),answer longest river(all) exclude traverse_2 stateid(state_name),0,"[1, 2, 4, 3, 5, 6]","(1) (2) (3, 4) (5) (6)",1
+459,459,459,answer longest river traverse_2 state next_to_2 stateid(state_name),answer longest river traverse_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+460,460,460,answer longest river traverse_2 stateid(state_name),answer longest river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+461,461,461,answer longest river traverse_2 state next_to_2 most state next_to_2 state(all),answer longest river traverse_2 state next_to_2 state next_to_2 most state(all),0,"[1, 2, 3, 4, 5, 6, 8, 9, 7, 10]","(1) (2) (3) (4) (5) (6) (7, 8, 9) (10)",2
+462,462,462,answer longest river traverse_2 state next_to_2 stateid(state_name),answer longest river traverse_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+463,463,463,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+464,464,464,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+465,465,465,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+466,466,466,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+467,467,467,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+468,468,468,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+469,469,469,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+470,470,470,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+471,471,471,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+472,472,472,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+473,473,473,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+474,474,474,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+475,475,475,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+476,476,476,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+477,477,477,answer lowest place loc_2 state traverse_1 riverid(river_name),answer lowest place loc_2 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+478,478,478,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+479,479,479,answer lowest place loc_2 largest_one area_1 state(all),answer lowest place loc_2 state(all) largest_one area_1,0,"[1, 2, 3, 4, 7, 5, 6]","(1) (2) (3) (4) (5, 7, 6)",2
+480,480,480,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+481,481,481,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+482,482,482,"answer highest place loc_2 cityid(city_name, _)","answer highest place loc_2 cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+483,483,483,answer largest_one density_1 state loc_2 countryid(country_name),answer largest_one density_1 state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+484,484,484,answer largest_one population_1 capital loc_2 countryid(country_name),answer largest_one population_1 capital loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+485,485,485,answer largest_one population_1 state next_to_2 stateid(state_name),answer largest_one population_1 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+486,486,486,answer largest_one population_1 city(all),answer largest_one population_1 city(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+487,487,487,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one population_1 city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+488,488,488,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one population_1 city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+489,489,489,answer largest_one population_1 state(all),answer largest_one population_1 state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+490,490,490,answer largest_one population_1 state loc_2 countryid(country_name),answer largest_one population_1 state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+491,491,491,answer largest_one population_1 state traverse_1 riverid(river_name),answer largest_one population_1 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+492,492,492,answer state loc_1 lowest place(all),answer state loc_1 lowest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+493,493,493,answer count state next_to_2 stateid(state_name),answer count next_to_2 state stateid(state_name),0,"[1, 2, 4, 3, 5]","(1) (2) (3, 4) (5)",1
+494,494,494,"answer density_1 state loc_1 capital cityid(city_name, _)","answer density_1 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+495,495,495,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+496,496,496,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+497,497,497,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+498,498,498,answer density_1 largest state(all),answer density_1 largest state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+499,499,499,answer density_1 smallest state(all),answer density_1 smallest state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+500,500,500,answer density_1 smallest_one area_1 state(all),answer density_1 state(all) smallest_one area_1,0,"[1, 2, 5, 3, 4]","(1) (2) (3, 5, 4)",2
+501,501,501,answer density_1 smallest_one population_1 state(all),answer density_1 state(all) smallest_one population_1,0,"[1, 2, 5, 3, 4]","(1) (2) (3, 5, 4)",2
+502,502,502,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+503,503,503,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+504,504,504,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+505,505,505,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+506,506,506,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+507,507,507,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+508,508,508,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+509,509,509,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+510,510,510,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+511,511,511,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+512,512,512,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+513,513,513,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+514,514,514,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+515,515,515,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+516,516,516,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+517,517,517,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+518,518,518,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+519,519,519,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+520,520,520,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+521,521,521,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+522,522,522,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+523,523,523,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+524,524,524,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+525,525,525,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+526,526,526,"answer population_1 city cityid(city_name, _)","answer population_1 cityid(city_name, _) city",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+527,527,527,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+528,528,528,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+529,529,529,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+530,530,530,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+531,531,531,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+532,532,532,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+533,533,533,"answer population_1 cityid(seattle, wa","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+534,534,534,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+535,535,535,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+536,536,536,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+537,537,537,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+538,538,538,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+539,539,539,answer population_1 capital loc_2 largest state(all),answer population_1 capital loc_2 largest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+540,540,540,answer population_1 capital loc_2 largest state traverse_1 riverid(river_name),answer population_1 capital loc_2 largest state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+541,541,541,answer population_1 capital loc_2 smallest state(all),answer population_1 capital loc_2 smallest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+542,542,542,answer population_1 largest city loc_2 largest_one area_1 state(all),answer population_1 largest city loc_2 state(all) largest_one area_1,0,"[1, 2, 3, 4, 5, 8, 6, 7]","(1) (2) (3) (4) (5) (6, 8, 7)",2
+543,543,543,answer population_1 largest state(all),answer population_1 largest state(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+544,544,544,answer population_1 largest state next_to_2 stateid(state_name),answer population_1 largest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+545,545,545,answer population_1 major city loc_2 stateid(state_name),answer population_1 major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+546,546,546,answer smallest population_1 state(all),answer population_1 smallest state(all),0,"[1, 3, 2, 4]","(1) (2, 3) (4)",1
+547,547,547,answer population_1 most state next_to_2 state(all),answer population_1 state next_to_2 most state(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+548,548,548,answer population_1 largest_one density_1 state(all),answer population_1 state(all) largest_one density_1,0,"[1, 2, 5, 3, 4]","(1) (2) (3, 5, 4)",2
+549,549,549,answer population_1 largest_one area_1 state(all),answer population_1 state(all) largest_one area_1,0,"[1, 2, 5, 3, 4]","(1) (2) (3, 5, 4)",2
+550,550,550,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+551,551,551,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+552,552,552,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+553,553,553,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+554,554,554,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+555,555,555,answer shortest river(all),answer shortest river(all),1,"[1, 2, 3]",(1) (2) (3),0
+556,556,556,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+557,557,557,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+558,558,558,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+559,559,559,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+560,560,560,answer shortest river loc_2 countryid(country_name),answer shortest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+561,561,561,answer shortest river loc_2 countryid(country_name),answer shortest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+562,562,562,answer shortest river loc_2 countryid(country_name),answer shortest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+563,563,563,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+564,564,564,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+565,565,565,answer size stateid(state_name),answer size stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+566,566,566,answer size capital loc_2 stateid(state_name),answer size capital loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+567,567,567,answer size largest state loc_2 countryid(country_name),answer size largest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+568,568,568,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+569,569,569,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+570,570,570,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+571,571,571,answer smallest city loc_2 largest state(all),answer smallest city loc_2 largest state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+572,572,572,answer smallest city loc_2 countryid(country_name),answer smallest city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+573,573,573,answer smallest city loc_2 countryid(country_name),answer smallest city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+574,574,574,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+575,575,575,answer smallest city loc_2 smallest state loc_2 countryid(country_name),answer smallest city loc_2 smallest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+576,576,576,answer smallest state next_to_2 stateid(state_name),answer smallest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+577,577,577,answer smallest state next_to_2 stateid(state_name),answer smallest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+578,578,578,answer smallest_one area_1 state(all),answer smallest_one state(all) area_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+579,579,579,answer smallest state loc_2 countryid(country_name),answer smallest state loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+580,580,580,answer smallest state next_to_2 stateid(state_name),answer smallest state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+581,581,581,answer smallest most state next_to_2 state(all),answer smallest state next_to_2 most state(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+582,582,582,answer smallest state traverse_1 riverid(river_name),answer smallest state riverid(river_name) traverse_1,0,"[1, 2, 3, 5, 4]","(1) (2) (3) (4, 5)",1
+583,583,583,answer smallest state traverse_1 longest river(all),answer smallest state traverse_1 longest river(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+584,584,584,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+585,585,585,answer state loc_1 highest place loc_2 countryid(country_name),answer state loc_1 highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+586,586,586,answer largest_one area_1 state(all),answer state(all) largest_one area_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+587,587,587,answer largest_one density_1 state loc_2 countryid(country_name),answer state largest_one density_1 loc_2 countryid(country_name),0,"[1, 4, 2, 3, 5, 6]","(1) (2, 4, 3) (5) (6)",2
+588,588,588,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+589,589,589,answer state loc_1 lowest place(all),answer state loc_1 lowest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+590,590,590,answer smallest_one population_1 state(all),answer state(all) smallest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+591,591,591,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+592,592,592,answer smallest_one area_1 state(all),answer state(all) smallest_one area_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+593,593,593,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+594,594,594,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+595,595,595,answer area_1 countryid(country_name),answer area_1 countryid(country_name),1,"[1, 2, 3]",(1) (2) (3),0
+596,596,596,answer sum len river(all),answer sum len river(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+597,597,597,answer sum population_1 state next_to_2 stateid(state_name),answer sum population_1 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+598,598,598,answer len riverid(river_name),answer len riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+599,599,599,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+600,600,600,answer major river traverse_2 stateid(state_name),answer major river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+601,601,601,answer mountain loc_2 stateid(state_name),answer mountain loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+602,602,602,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+603,603,603,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+604,604,604,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+605,605,605,answer longest river loc_2 countryid(country_name),answer river longest loc_2 countryid(country_name),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+606,606,606,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+607,607,607,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+608,608,608,answer river traverse_2 most state loc_1 city(all),answer river traverse_2 state loc_1 most city(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+609,609,609,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+610,610,610,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+611,611,611,answer river traverse_2 most state next_to_2 state(all),answer river traverse_2 state next_to_2 most state(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+612,612,612,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+613,613,613,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+614,614,614,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+615,615,615,answer river loc_2 state next_to_2 stateid(state_name),answer river loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+616,616,616,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+617,617,617,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+618,618,618,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+619,619,619,answer exclude river(all) traverse_2 stateid(state_name),answer river(all) exclude traverse_2 stateid(state_name),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+620,620,620,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+621,621,621,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+622,622,622,answer river traverse_2 state next_to_1 stateid(state_name),answer river traverse_2 state stateid(state_name) next_to_1,0,"[1, 2, 3, 4, 6, 5]","(1) (2) (3) (4) (5, 6)",1
+623,623,623,answer river traverse_2 state next_to_2 largest_one population_1 state(all),answer river traverse_2 state next_to_2 state(all) largest_one population_1,0,"[1, 2, 3, 4, 5, 8, 6, 7]","(1) (2) (3) (4) (5) (6, 8, 7)",2
+624,624,624,answer river traverse_2 largest state(all),answer river traverse_2 largest state(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+625,625,625,answer river traverse_2 largest_one population_1 state(all),answer river traverse_2 state(all) largest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+626,626,626,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+627,627,627,"answer river traverse_2 cityid(city_name, state_name)","answer river traverse_2 cityid(city_name, state_name)",1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+628,628,628,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+629,629,629,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+630,630,630,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+631,631,631,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+632,632,632,answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+633,633,633,"answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)","answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",(1) (2) (3) (4) (5) (6) (7) (8) (9) (10),0
+634,634,634,answer river traverse_2 stateid(west virginia,answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+635,635,635,answer river traverse_2 most state next_to_2 state(all),answer river traverse_2 state next_to_2 most state(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+636,636,636,answer largest_one population_1 state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+637,637,637,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+638,638,638,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+639,639,639,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+640,640,640,answer fewest state next_to_2 state(all),answer state next_to_2 fewest state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+641,641,641,answer fewest state next_to_2 exclude exclude state(all) stateid(state_name) stateid(state_name),answer state next_to_2 fewest state(all) exclude stateid(state_name) exclude stateid(state_name),0,"[1, 3, 4, 2, 7, 5, 8, 6, 9]","(1) (2, 3, 4) (5, 7, 8, 6) (9)",5
+642,642,642,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+643,643,643,answer state next_to_2 smallest_one population_1 state(all),answer state next_to_2 state(all) smallest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+644,644,644,answer state loc_1 highest place loc_2 countryid(country_name),answer state loc_1 highest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+645,645,645,answer state loc_1 highest place loc_2 state traverse_1 riverid(river_name),answer state loc_1 highest place loc_2 state riverid(river_name) traverse_1,0,"[1, 2, 3, 4, 5, 6, 7, 9, 8]","(1) (2) (3) (4) (5) (6) (7) (8, 9)",1
+646,646,646,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+647,647,647,answer exclude state(all) loc_1 river(all),answer state(all) loc_1 exclude river(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+648,648,648,"answer state loc_1 capital cityid(city_name, _)","answer state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+649,649,649,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+650,650,650,answer state loc_1 largest_one population_1 city(all),answer state loc_1 city(all) largest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+651,651,651,answer state loc_1 largest_one population_1 city(all),answer state loc_1 city(all) largest_one population_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+652,652,652,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+653,653,653,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+654,654,654,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+655,655,655,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+656,656,656,answer largest_one area_1 state(all),answer state(all) largest_one area_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+657,657,657,answer state loc_1 largest capital(all),answer state loc_1 largest capital(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+658,658,658,answer state loc_1 largest city(all),answer state loc_1 largest city(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+659,659,659,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+660,660,660,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+661,661,661,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+662,662,662,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+663,663,663,answer state loc_1 longest river(all),answer state loc_1 longest river(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+664,664,664,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+665,665,665,answer most state loc_1 city(all),answer state loc_1 most city(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+666,666,666,answer most state loc_1 major city(all),answer state loc_1 most major city(all),0,"[1, 3, 4, 2, 5, 6]","(1) (2, 3, 4) (5) (6)",2
+667,667,667,answer most state traverse_1 major river(all),answer state most major river(all) traverse_1,0,"[1, 3, 2, 5, 6, 4]","(1) (2, 3) (4, 5, 6)",3
+668,668,668,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+669,669,669,answer most state loc_1 river(all),answer state loc_1 most river(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+670,670,670,answer most state traverse_1 river(all),answer state most river(all) traverse_1,0,"[1, 3, 2, 5, 4]","(1) (2, 3) (4, 5)",2
+671,671,671,answer state loc_1 shortest river(all),answer state loc_1 shortest river(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+672,672,672,answer smallest_one area_1 state(all),answer state(all) smallest_one area_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+673,673,673,answer state loc_1 smallest capital(all),answer state loc_1 smallest capital(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+674,674,674,answer smallest_one population_1 state(all),answer state(all) smallest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+675,675,675,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+676,676,676,answer smallest_one population_1 state(all),answer state(all) smallest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+677,677,677,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+678,678,678,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+679,679,679,"answer state loc_1 capital cityid(city_name, _)","answer state cityid(city_name, _) capital loc_1",0,"[1, 2, 5, 6, 4, 3]","(1) (2) (3, 5, 4, 6)",3
+680,680,680,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+681,681,681,"answer state loc_1 capital cityid(city_name, _)","answer state cityid(city_name, _) capital loc_1",0,"[1, 2, 5, 6, 4, 3]","(1) (2) (3, 5, 4, 6)",3
+682,682,682,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+683,683,683,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+684,684,684,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+685,685,685,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+686,686,686,answer largest state(all),answer state(all) largest,0,"[1, 3, 2]","(1) (2, 3)",1
+687,687,687,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+688,688,688,answer state most state loc_1 river(all),answer state state loc_1 most river(all),0,"[1, 2, 4, 5, 3, 6]","(1) (2) (3, 4, 5) (6)",2
+689,689,689,answer largest_one population_1 state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+690,690,690,answer largest state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest,0,"[1, 3, 4, 5, 2]","(1) (2, 3, 4, 5)",3
+691,691,691,answer largest_one population_1 state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1 largest_one population_1,0,"[1, 4, 6, 5, 2, 3]","(1) (2, 4, 5) (3, 6)",3
+692,692,692,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+693,693,693,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+694,694,694,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+695,695,695,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+696,696,696,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+697,697,697,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+698,698,698,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+699,699,699,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+700,700,700,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+701,701,701,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+702,702,702,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+703,703,703,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+704,704,704,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+705,705,705,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+706,706,706,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+707,707,707,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+708,708,708,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+709,709,709,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+710,710,710,answer state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+711,711,711,answer state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+712,712,712,answer state next_to_2 state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+713,713,713,answer state next_to_2 state next_to_2 state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 state next_to_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",(1) (2) (3) (4) (5) (6) (7) (8) (9) (10),0
+714,714,714,answer state next_to_2 state next_to_2 largest_one population_1 state(all),answer state next_to_2 state next_to_2 state(all) largest_one population_1,0,"[1, 2, 3, 4, 5, 8, 6, 7]","(1) (2) (3) (4) (5) (6, 8, 7)",2
+715,715,715,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state riverid(river_name) traverse_1,0,"[1, 2, 3, 4, 6, 5]","(1) (2) (3) (4) (5, 6)",1
+716,716,716,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state riverid(river_name) traverse_1,0,"[1, 2, 3, 4, 6, 5]","(1) (2) (3) (4) (5, 6)",1
+717,717,717,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state riverid(river_name) traverse_1,0,"[1, 2, 3, 4, 6, 5]","(1) (2) (3) (4) (5, 6)",1
+718,718,718,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+719,719,719,answer intersection state next_to_2 stateid(state_name) loc_1 major river(all),answer state next_to_2 stateid(state_name) intersection loc_1 major river(all),0,"[1, 3, 4, 5, 2, 6, 7, 8]","(1) (2, 3, 4, 5) (6) (7) (8)",3
+720,720,720,answer state next_to_2 riverid(river_name),answer state next_to_2 riverid(river_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+721,721,721,answer state next_to_2 largest_one population_1 state(all),answer state next_to_2 largest_one population_1 state(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+722,722,722,answer state next_to_2 most state next_to_2 state(all),answer state next_to_2 state next_to_2 most state(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+723,723,723,answer state next_to_2 most state loc_1 city(all),answer state next_to_2 state loc_1 most city(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+724,724,724,answer state next_to_2 most state loc_1 major city(all),answer state next_to_2 state loc_1 most major city(all),0,"[1, 2, 3, 5, 6, 4, 7, 8]","(1) (2) (3) (4, 5, 6) (7) (8)",2
+725,725,725,answer state next_to_2 smallest_one area_1 state(all),answer state next_to_2 state(all) smallest_one area_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+726,726,726,answer state next_to_2 most state loc_1 city(all),answer state next_to_2 state loc_1 most city(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+727,727,727,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+728,728,728,"answer state capital_2 cityid(city_name, _)","answer state capital_2 cityid(city_name, _)",1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+729,729,729,answer state loc_1 major river(all),answer state loc_1 major river(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+730,730,730,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+731,731,731,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+732,732,732,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+733,733,733,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+734,734,734,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+735,735,735,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+736,736,736,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+737,737,737,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+738,738,738,answer state traverse_1 shortest river(all),answer state shortest river(all) traverse_1,0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+739,739,739,answer state loc_1 capital highest place(all),answer state loc_1 capital highest place(all),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+740,740,740,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+741,741,741,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+742,742,742,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+743,743,743,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+744,744,744,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+745,745,745,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+746,746,746,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+747,747,747,answer exclude state(all) next_to_2 state(all),answer state(all) exclude next_to_2 state(all),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+748,748,748,answer state loc_1 river riverid(river_name),answer state loc_1 river riverid(river_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+749,749,749,answer state traverse_1 river(all),answer state river(all) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+750,750,750,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+751,751,751,answer state high_point_2 higher_2 high_point_1 stateid(state_name),answer state high_point_2 higher_2 high_point_1 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+752,752,752,"answer intersection state loc_2 countryid(country_name) loc_1 city cityid(city_name, _)","answer intersection state loc_2 countryid(country_name) loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+753,753,753,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+754,754,754,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+755,755,755,answer largest_one population_1 city loc_2 stateid(state_name),answer stateid(state_name) city loc_2 largest_one population_1,0,"[1, 6, 4, 5, 2, 3]","(1) (2, 6, 3, 4, 5)",4
+756,756,756,answer largest city(all),answer largest city(all),1,"[1, 2, 3]",(1) (2) (3),0
+757,757,757,answer loc_1 mountain(all),answer loc_1 mountain(all),1,"[1, 2, 3]",(1) (2) (3),0
+758,758,758,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+759,759,759,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+760,760,760,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+761,761,761,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+762,762,762,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+763,763,763,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+764,764,764,answer loc_1 stateid(state_name),answer loc_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+765,765,765,answer loc_1 placeid(mount whitney,answer loc_1 placeid(place_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+766,766,766,answer loc_1 placeid(mount whitney,answer loc_1 placeid(place_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+767,767,767,answer loc_1 stateid(state_name),answer loc_1 stateid(state_name),1,"[1, 2, 3]",(1) (2) (3),0
+768,768,768,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+769,769,769,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+770,770,770,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+771,771,771,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+772,772,772,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+773,773,773,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+774,774,774,answer loc_1 riverid(river_name),answer loc_1 riverid(river_name),1,"[1, 2, 3]",(1) (2) (3),0
+775,775,775,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+776,776,776,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+777,777,777,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+778,778,778,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+779,779,779,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+780,780,780,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+781,781,781,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one population_1 city loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+782,782,782,answer loc_1 smallest city(all),answer loc_1 smallest city(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+783,783,783,answer capital loc_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+784,784,784,answer exclude capital(all) major city(all),answer capital(all) exclude major city(all),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+785,785,785,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+786,786,786,answer density_1 state traverse_1 longest river loc_2 countryid(country_name),answer density_1 state longest river loc_2 countryid(country_name) traverse_1,0,"[1, 2, 3, 5, 6, 7, 8, 4]","(1) (2) (3) (4, 5, 6, 7, 8)",4
+787,787,787,answer highest exclude mountain(all) loc_2 stateid(state_name),answer highest mountain(all) exclude loc_2 stateid(state_name),0,"[1, 2, 4, 3, 5, 6]","(1) (2) (3, 4) (5) (6)",1
+788,788,788,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+789,789,789,answer lowest place loc_2 state traverse_1 riverid(river_name),answer lowest place loc_2 state riverid(river_name) traverse_1,0,"[1, 2, 3, 4, 5, 7, 6]","(1) (2) (3) (4) (5) (6, 7)",1
+790,790,790,answer shortest river(all),answer shortest river(all),1,"[1, 2, 3]",(1) (2) (3),0
+791,791,791,answer smallest state(all),answer smallest state(all),1,"[1, 2, 3]",(1) (2) (3),0
+792,792,792,answer largest_one population_1 state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest_one population_1,0,"[1, 4, 5, 6, 2, 3]","(1) (2, 4, 6, 3, 5)",4
+793,793,793,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+794,794,794,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+795,795,795,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+796,796,796,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+797,797,797,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+798,798,798,answer exclude river(all) traverse_2 stateid(state_name),answer river(all) exclude traverse_2 stateid(state_name),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+799,799,799,answer exclude river(all) traverse_2 countryid(country_name),answer river(all) exclude traverse_2 countryid(country_name),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+800,800,800,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+801,801,801,answer river traverse_2 state next_to_2 stateid(state_name),answer river traverse_2 state next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+802,802,802,"answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)","answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",(1) (2) (3) (4) (5) (6) (7) (8) (9) (10),0
+803,803,803,answer river traverse_2 fewest state loc_1 city(all),answer river traverse_2 state loc_1 fewest city(all),0,"[1, 2, 3, 5, 6, 4, 7]","(1) (2) (3) (4, 5, 6) (7)",2
+804,804,804,answer river traverse_2 state loc_1 largest city loc_2 countryid(country_name),answer river traverse_2 state loc_1 largest city loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+805,805,805,answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+806,806,806,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+807,807,807,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+808,808,808,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+809,809,809,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+810,810,810,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+811,811,811,answer smallest_one population_1 capital(all),answer capital(all) smallest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+812,812,812,answer most state loc_1 river(all),answer state loc_1 most river(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+813,813,813,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+814,814,814,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+815,815,815,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+816,816,816,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+817,817,817,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+818,818,818,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+819,819,819,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+820,820,820,answer state loc_1 largest city(all),answer state loc_1 largest city(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+821,821,821,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+822,822,822,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+823,823,823,answer state loc_1 longest river(all),answer state loc_1 longest river(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+824,824,824,answer state loc_1 lowest place(all),answer state loc_1 lowest place(all),1,"[1, 2, 3, 4, 5]",(1) (2) (3) (4) (5),0
+825,825,825,answer state loc_1 lowest place loc_2 next_to_2 stateid(state_name),answer state loc_1 lowest place loc_2 next_to_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8]",(1) (2) (3) (4) (5) (6) (7) (8),0
+826,826,826,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+827,827,827,answer most state loc_1 major city(all),answer state loc_1 most major city(all),0,"[1, 3, 4, 2, 5, 6]","(1) (2, 3, 4) (5) (6)",2
+828,828,828,answer most state loc_1 major river(all),answer state loc_1 most major river(all),0,"[1, 3, 4, 2, 5, 6]","(1) (2, 3, 4) (5) (6)",2
+829,829,829,answer most state traverse_1 major river(all),answer state most major river(all) traverse_1,0,"[1, 3, 2, 5, 6, 4]","(1) (2, 3) (4, 5, 6)",3
+830,830,830,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+831,831,831,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+832,832,832,answer most state loc_1 river(all),answer state loc_1 most river(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+833,833,833,answer most state traverse_1 river(all),answer state most river(all) traverse_1,0,"[1, 3, 2, 5, 4]","(1) (2, 3) (4, 5)",2
+834,834,834,answer state loc_1 riverid(river_name),answer state loc_1 riverid(river_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+835,835,835,answer smallest_one area_1 state next_to_2 stateid(state_name),answer state smallest_one area_1 next_to_2 stateid(state_name),0,"[1, 4, 2, 3, 5, 6]","(1) (2, 4, 3) (5) (6)",2
+836,836,836,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+837,837,837,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+838,838,838,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2
+839,839,839,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+840,840,840,answer state loc_1 placeid(place_name),answer state placeid(place_name) loc_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+841,841,841,"answer state loc_1 city cityid(city_name, _)","answer state city cityid(city_name, _) loc_1",0,"[1, 2, 4, 5, 6, 3]","(1) (2) (3, 4, 5, 6)",3
+842,842,842,answer state loc_1 largest city loc_2 stateid(state_name),answer state largest city loc_2 stateid(state_name) loc_1,0,"[1, 2, 4, 5, 6, 7, 3]","(1) (2) (3, 4, 5, 6, 7)",4
+843,843,843,answer smallest state(all),answer state(all) smallest,0,"[1, 3, 2]","(1) (2, 3)",1
+844,844,844,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+845,845,845,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+846,846,846,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+847,847,847,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+848,848,848,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+849,849,849,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+850,850,850,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+851,851,851,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+852,852,852,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+853,853,853,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+854,854,854,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+855,855,855,answer exclude state(all) next_to_2 state(all),answer state(all) next_to_2 exclude state(all),0,"[1, 3, 4, 2, 5]","(1) (2, 3, 4) (5)",2
+856,856,856,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+857,857,857,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state traverse_1 riverid(river_name),1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+858,858,858,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+859,859,859,answer state next_to_2 longest river loc_2 countryid(country_name),answer state next_to_2 longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+860,860,860,answer state next_to_2 riverid(river_name),answer state next_to_2 riverid(river_name),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+861,861,861,answer state next_to_2 smallest_one area_1 state(all),answer state next_to_2 state(all) smallest_one area_1,0,"[1, 2, 3, 6, 4, 5]","(1) (2) (3) (4, 6, 5)",2
+862,862,862,answer state loc_1 largest city capital_1 state(all),answer state loc_1 capital_1 city largest state(all),0,"[1, 2, 3, 6, 5, 4, 7]","(1) (2) (3) (4, 6) (5) (7)",1
+863,863,863,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+864,864,864,answer exclude state(all) next_to_2 stateid(state_name),answer state(all) exclude next_to_2 stateid(state_name),0,"[1, 3, 2, 4, 5]","(1) (2, 3) (4) (5)",1
+865,865,865,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+866,866,866,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+867,867,867,answer state traverse_1 longest river(all),answer state longest river(all) traverse_1,0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+868,868,868,answer state traverse_1 longest river(all),answer state longest river(all) traverse_1,0,"[1, 2, 4, 5, 3]","(1) (2) (3, 4, 5)",2
+869,869,869,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+870,870,870,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+871,871,871,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+872,872,872,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0,"[1, 2, 4, 3]","(1) (2) (3, 4)",1
+873,873,873,"answer state loc_1 major city cityid(city_name, _)","answer state loc_1 major city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+874,874,874,answer state loc_1 river(all),answer state loc_1 river(all),1,"[1, 2, 3, 4]",(1) (2) (3) (4),0
+875,875,875,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1,"[1, 2, 3, 4, 5, 6]",(1) (2) (3) (4) (5) (6),0
+876,876,876,answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+877,877,877,answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),1,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",(1) (2) (3) (4) (5) (6) (7) (8) (9),0
+878,878,878,answer state traverse_1 longest river loc_2 countryid(country_name),answer state traverse_1 longest river loc_2 countryid(country_name),1,"[1, 2, 3, 4, 5, 6, 7]",(1) (2) (3) (4) (5) (6) (7),0
+879,879,879,answer largest_one density_1 city(all),answer city(all) largest_one density_1,0,"[1, 4, 2, 3]","(1) (2, 4, 3)",2

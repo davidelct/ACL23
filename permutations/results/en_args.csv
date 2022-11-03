@@ -1,0 +1,881 @@
+ID,MR_GOLD,MR_MN,MN
+0,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+1,answer high_point_1 state next_to_2 stateid(state_name),answer high_point_1 state next_to_2 stateid(state_name),1
+2,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+3,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+4,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+5,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+6,answer count state low_point_2 lower_2 low_point_1 stateid(state_name),count state answer low_point_2 lower_2 low_point_1 stateid(state_name),0
+7,answer state loc_2 countryid(country_name),answer state loc_2 countryid(country_name),1
+8,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+9,answer city loc_2 countryid(country_name),answer city loc_2 countryid(country_name),1
+10,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+11,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+12,answer lake loc_2 stateid(state_name),answer lake loc_2 stateid(state_name),1
+13,answer largest state(all),answer largest state(all),1
+14,answer longest river traverse_2 countryid(country_name),answer longest river traverse_2 countryid(country_name),1
+15,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+16,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+17,answer size stateid(state_name),answer size stateid(state_name),1
+18,answer size stateid(state_name),answer size stateid(state_name),1
+19,answer size stateid(state_name),answer size stateid(state_name),1
+20,answer size stateid(state_name),answer size stateid(state_name),1
+21,answer size stateid(state_name),answer size stateid(state_name),1
+22,"answer size city cityid(city_name, _)","answer size city cityid(city_name, _)",1
+23,answer elevation_1 highest place loc_2 state(all),answer elevation_1 highest place loc_2 state(all),1
+24,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1
+25,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1
+26,answer elevation_1 highest place loc_2 countryid(country_name),answer elevation_1 highest place loc_2 countryid(country_name),1
+27,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1
+28,answer elevation_1 highest place loc_2 largest state(all),answer elevation_1 highest place loc_2 largest state(all),1
+29,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1
+30,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1
+31,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1
+32,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1
+33,answer size stateid(state_name),answer size stateid(state_name),1
+34,answer size stateid(state_name),answer size stateid(state_name),1
+35,answer size largest city loc_2 stateid(state_name),answer size largest city loc_2 stateid(state_name),1
+36,answer len riverid(river_name),answer len riverid(river_name),1
+37,answer len riverid(river_name),answer len riverid(river_name),1
+38,answer len riverid(river_name),answer len riverid(river_name),1
+39,answer len longest river loc_2 stateid(state_name),answer len longest river loc_2 stateid(state_name),1
+40,answer len longest river loc_2 countryid(country_name),answer len longest river loc_2 countryid(country_name),1
+41,answer len riverid(river_name),answer len riverid(river_name),1
+42,answer len riverid(river_name),answer len riverid(river_name),1
+43,answer len riverid(river_name),answer len riverid(river_name),1
+44,answer len riverid(river_name),answer len riverid(river_name),1
+45,answer len riverid(river_name),answer len riverid(river_name),1
+46,answer len riverid(river_name),answer len riverid(river_name),1
+47,answer len riverid(river_name),answer len riverid(river_name),1
+48,answer len shortest river loc_2 countryid(country_name),answer len shortest river loc_2 countryid(country_name),1
+49,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1
+50,answer count capital loc_2 stateid(state_name),answer count capital stateid(state_name) loc_2,0
+51,answer count city loc_2 stateid(state_name),answer count city loc_2 stateid(state_name),1
+52,answer count city loc_2 stateid(state_name),answer count city loc_2 stateid(state_name),1
+53,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1
+54,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1
+55,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1
+56,answer count city loc_2 countryid(country_name),answer count city loc_2 countryid(country_name),1
+57,answer count city loc_2 stateid(state_name),answer count city stateid(state_name) loc_2,0
+58,answer count city loc_2 countryid(country_name),answer count city countryid(country_name) loc_2,0
+59,"answer count intersection city cityid(city_name, _) loc_2 countryid(country_name)","answer count intersection city cityid(city_name, _) loc_2 countryid(country_name)",1
+60,answer population_1 largest city(all),answer population_1 largest city(all),1
+61,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+62,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+63,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+64,answer count river riverid(river_name),answer count riverid(river_name),1
+65,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+66,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1
+67,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1
+68,answer count major city loc_2 state next_to_2 stateid(state_name),answer count major city loc_2 state next_to_2 stateid(state_name),1
+69,answer count major city loc_2 state next_to_2 stateid(state_name),answer count major city loc_2 state next_to_2 stateid(state_name),1
+70,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1
+71,answer count major city(all),answer count major city(all),1
+72,answer count major city loc_2 stateid(state_name),answer count major city loc_2 stateid(state_name),1
+73,answer count major river traverse_2 stateid(state_name),answer count major river traverse_2 stateid(state_name),1
+74,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+75,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+76,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+77,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+78,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+79,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+80,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+81,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+82,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+83,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+84,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+85,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+86,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+87,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+88,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+89,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+90,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+91,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+92,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+93,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+94,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+95,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+96,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+97,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+98,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+99,answer population_1 largest city loc_2 stateid(state_name),answer population_1 largest city loc_2 stateid(state_name),1
+100,answer population_1 capital loc_2 stateid(state_name),answer population_1 capital loc_2 stateid(state_name),1
+101,answer population_1 capital loc_2 stateid(state_name),answer population_1 capital loc_2 stateid(state_name),1
+102,answer population_1 smallest state next_to_2 stateid(state_name),answer population_1 smallest state next_to_2 stateid(state_name),1
+103,answer population_1 largest_one density_1 state(all),answer population_1 state(all) largest_one density_1,0
+104,answer population_1 countryid(country_name),answer population_1 countryid(country_name),1
+105,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+106,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+107,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+108,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+109,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+110,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+111,answer count riverid(river_name),answer count riverid(river_name),1
+112,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+113,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+114,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+115,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+116,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+117,answer count river loc_2 most state loc_1 river(all),answer count river loc_2 state loc_1 most river(all),0
+118,answer count river loc_2 state loc_1 highest place(all),answer count river loc_2 state loc_1 highest place(all),1
+119,answer count river loc_2 largest_one population_1 state(all),answer count river loc_2 state(all) largest_one population_1,0
+120,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+121,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+122,answer count river loc_2 countryid(country_name),answer count river loc_2 countryid(country_name),1
+123,"answer count exclude river(all) traverse_2 state loc_1 capital cityid(city_name, _)","answer count river(all) exclude traverse_2 state loc_1 capital cityid(city_name, _)",0
+124,answer count river loc_2 stateid(state_name),answer count river stateid(state_name) loc_2,0
+125,answer count river loc_2 stateid(state_name),answer count river stateid(state_name) loc_2,0
+126,answer count intersection river loc_2 stateid(state_name) longer riverid(river_name),answer count intersection river loc_2 stateid(state_name) longer riverid(river_name),1
+127,answer count river loc_2 stateid(state_name),answer count river loc_2 stateid(state_name),1
+128,answer count river traverse_2 stateid(state_name),answer count river traverse_2 stateid(state_name),1
+129,answer count river traverse_2 state next_to_2 stateid(state_name),answer count river traverse_2 state next_to_2 stateid(state_name),1
+130,answer area_1 countryid(country_name),answer area_1 countryid(country_name),1
+131,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1
+132,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1
+133,answer count state next_to_2 major river(all),answer count state next_to_2 major river(all),1
+134,answer count state(all),answer count state(all),1
+135,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1
+136,answer count state loc_2 countryid(country_name),answer count state loc_2 countryid(country_name),1
+137,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1
+138,answer count state next_to_2 state(all),answer count state next_to_2 state(all),1
+139,answer count state intersection next_to_2 stateid(state_name) next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name) intersection next_to_2 stateid(state_name),0
+140,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1
+141,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1
+142,"answer count state next_to_2 state loc_1 capital cityid(city_name, _)","answer count state next_to_2 state loc_1 capital cityid(city_name, _)",1
+143,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1
+144,answer count state next_to_2 stateid(state_name),answer count state next_to_2 stateid(state_name),1
+145,answer count state next_to_2 largest state(all),answer count state next_to_2 largest state(all),1
+146,answer count state next_to_2 riverid(river_name),answer count state next_to_2 riverid(river_name),1
+147,answer count state next_to_2 most state next_to_2 state(all),answer count state next_to_2 state next_to_2 most state(all),0
+148,answer count state next_to_2 largest_one population_1 state(all),answer count state next_to_2 state(all) largest_one population_1,0
+149,answer count exclude state(all) loc_1 river(all),answer count state(all) exclude loc_1 river(all),0
+150,answer count state next_to_1 stateid(state_name),answer count state stateid(state_name) next_to_1,0
+151,answer count state next_to_1 stateid(state_name),answer count state stateid(state_name) next_to_1,0
+152,answer count state next_to_1 stateid(state_name),answer count state stateid(state_name) next_to_1,0
+153,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0
+154,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0
+155,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0
+156,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0
+157,answer count state traverse_1 riverid(river_name),answer count state riverid(river_name) traverse_1,0
+158,answer count state loc_2 countryid(country_name),answer count state countryid(country_name) loc_2,0
+159,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1
+160,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1
+161,answer count state loc_1 place higher_2 highest place loc_2 state loc_1 largest capital city loc_2 countryid(country_name),answer count state loc_1 higher_2 place highest loc_1 place loc_2 state largest capital city loc_2 countryid(country_name),0
+162,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1
+163,"answer count state loc_1 city cityid(city_name, _)","answer count state loc_1 city cityid(city_name, _)",1
+164,answer count state loc_1 major river(all),answer count state loc_1 major river(all),1
+165,answer count intersection state loc_2 countryid(country_name) traverse_1 shortest river(all),answer count intersection state loc_2 countryid(country_name) shortest river(all) traverse_1,0
+166,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+167,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1
+168,answer elevation_1 highest place loc_2 stateid(state_name),answer elevation_1 highest place loc_2 stateid(state_name),1
+169,answer state loc_1 placeid(place_name),loc_1 answer state placeid(place_name),0
+170,answer state loc_1 highest place loc_2 countryid(country_name),loc_1 answer state highest place loc_2 countryid(country_name),0
+171,"answer state loc_1 cityid(city_name, _)","loc_1 answer state cityid(city_name, _)",0
+172,answer count state next_to_1 stateid(state_name),stateid(state_name) next_to_1 answer count state,0
+173,answer state(all),answer state(all),1
+174,answer lake loc_2 countryid(country_name),answer lake loc_2 countryid(country_name),1
+175,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+176,answer capital loc_2 countryid(country_name),answer capital loc_2 countryid(country_name),1
+177,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1
+178,answer major lake loc_2 stateid(state_name),answer major lake loc_2 stateid(state_name),1
+179,answer major river loc_2 stateid(state_name),answer major river loc_2 stateid(state_name),1
+180,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+181,answer exclude state(all) next_to_2 state(all),answer state(all) exclude next_to_2 state(all),0
+182,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+183,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+184,answer count state next_to_2 stateid(state_name),answer count next_to_2 stateid(state_name),1
+185,answer state loc_1 lowest place loc_2 state traverse_1 riverid(river_name),state traverse_1 loc_2 riverid(river_name) answer state loc_1 lowest place,0
+186,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+187,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+188,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+189,"answer state loc_1 capital cityid(city_name, _)","cityid(city_name, _) capital loc_1 answer state",0
+190,"answer state loc_1 cityid(city_name, _)","cityid(city_name, _) loc_1 answer state",0
+191,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+192,answer major lake loc_2 countryid(country_name),answer major lake loc_2 countryid(country_name),1
+193,answer largest_one area_1 state(all),answer state(all) largest_one area_1,0
+194,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+195,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+196,answer state traverse_1 longest river loc_2 stateid(state_name),traverse_1 answer state longest river loc_2 stateid(state_name),0
+197,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+198,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+199,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+200,answer major river loc_2 stateid(state_name),answer major river loc_2 stateid(state_name),1
+201,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+202,answer capital city loc_2 state next_to_2 stateid(state_name),answer capital city loc_2 state next_to_2 stateid(state_name),1
+203,answer capital city loc_2 stateid(state_name),answer capital city loc_2 stateid(state_name),1
+204,answer capital loc_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 stateid(state_name),1
+205,answer capital loc_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 stateid(state_name),1
+206,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+207,answer city loc_2 state traverse_1 riverid(river_name),answer city loc_2 state traverse_1 riverid(river_name),1
+208,answer city loc_2 state loc_1 highest place(all),answer city loc_2 state loc_1 highest place(all),1
+209,answer highest place loc_2 state(all),answer highest place loc_2 state(all),1
+210,answer highest place loc_2 state next_to_2 stateid(state_name),answer highest place loc_2 state next_to_2 stateid(state_name),1
+211,answer lake loc_2 state next_to_2 stateid(state_name),answer lake loc_2 state next_to_2 stateid(state_name),1
+212,answer largest city loc_2 state next_to_2 largest state(all),answer largest city loc_2 state next_to_2 largest state(all),1
+213,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+214,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+215,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+216,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+217,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+218,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+219,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+220,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+221,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+222,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+223,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+224,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+225,answer major city loc_2 state traverse_1 riverid(river_name),answer major city loc_2 state traverse_1 riverid(river_name),1
+226,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+227,answer major city loc_2 largest state(all),answer major city loc_2 largest state(all),1
+228,answer major city loc_2 smallest state loc_2 countryid(country_name),answer major city loc_2 smallest state loc_2 countryid(country_name),1
+229,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+230,answer major city loc_2 state traverse_1 major river loc_2 stateid(state_name),answer major city loc_2 state traverse_1 major river loc_2 stateid(state_name),1
+231,answer major city loc_2 countryid(country_name),answer major city loc_2 countryid(country_name),1
+232,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+233,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+234,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+235,answer major city loc_2 countryid(country_name),answer major city loc_2 countryid(country_name),1
+236,answer major city loc_2 countryid(country_name),answer major city loc_2 countryid(country_name),1
+237,answer major lake loc_2 countryid(country_name),answer major lake loc_2 countryid(country_name),1
+238,answer major river loc_2 stateid(state_name),answer major river loc_2 stateid(state_name),1
+239,answer major river loc_2 countryid(country_name),answer major river loc_2 countryid(country_name),1
+240,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+241,answer state next_to_2 stateid(state_name),answer next_to_2 state stateid(state_name),0
+242,answer density_1 state(all),answer density_1 state(all),1
+243,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+244,answer population_1 major city loc_2 stateid(state_name),answer population_1 major city loc_2 stateid(state_name),1
+245,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+246,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+247,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+248,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+249,answer population_1 state next_to_2 stateid(state_name),answer population_1 state next_to_2 stateid(state_name),1
+250,answer population_1 major city loc_2 stateid(state_name),answer population_1 major city loc_2 stateid(state_name),1
+251,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+252,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+253,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+254,answer population_1 state traverse_1 riverid(river_name),answer population_1 state traverse_1 riverid(river_name),1
+255,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+256,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+257,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+258,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+259,answer state(all),answer state(all),1
+260,answer state next_to_2 largest_one population_1 state(all),answer state next_to_2 state(all) largest_one population_1,0
+261,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+262,answer state traverse_1 longest river(all),answer state traverse_1 longest river(all),1
+263,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+264,answer largest_one population_1 capital(all),answer capital(all) largest_one population_1,0
+265,answer largest capital loc_2 countryid(country_name),answer capital largest loc_2 countryid(country_name),0
+266,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+267,answer city loc_2 stateid(state_name),answer city loc_2 stateid(state_name),1
+268,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0
+269,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0
+270,answer largest_one population_1 city(all),answer city(all) largest_one population_1,0
+271,answer smallest_one population_1 city(all),answer city(all) smallest_one population_1,0
+272,answer largest_one population_1 city(all),answer city(all) largest_one population_1,0
+273,answer largest_one density_1 city loc_2 countryid(country_name),answer city loc_2 countryid(country_name) largest_one density_1,0
+274,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+275,answer capital loc_2 state loc_1 lowest place(all),answer capital loc_2 state loc_1 lowest place(all),1
+276,answer largest capital(all),answer largest capital(all),1
+277,answer state next_to_2 stateid(state_name),answer next_to_2 state stateid(state_name),0
+278,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+279,answer sum area_1 state(all),answer area_1 state(all) sum,0
+280,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+281,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+282,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+283,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+284,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+285,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+286,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+287,"answer area_1 cityid(city_name, _)","answer area_1 cityid(city_name, _)",1
+288,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+289,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+290,answer area_1 largest state(all),answer area_1 largest state(all),1
+291,answer area_1 smallest state(all),answer area_1 smallest state(all),1
+292,"answer area_1 state loc_1 capital cityid(city_name, _)","answer area_1 state loc_1 capital cityid(city_name, _)",1
+293,answer area_1 smallest_one density_1 state(all),answer area_1 state(all) smallest_one density_1,0
+294,answer area_1 state(all),answer area_1 state(all),1
+295,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+296,answer area_1 stateid(state_name),answer area_1 stateid(state_name),1
+297,answer density_1 countryid(country_name),answer density_1 countryid(country_name),1
+298,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+299,answer density_1 countryid(country_name),answer density_1 countryid(country_name),1
+300,answer largest city loc_2 state loc_1 river(all),answer largest city loc_2 state loc_1 river(all),1
+301,answer largest capital city loc_2 countryid(country_name),answer largest capital city loc_2 countryid(country_name),1
+302,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+303,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+304,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+305,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+306,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+307,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+308,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+309,answer largest city loc_2 smallest state(all),answer largest city loc_2 smallest state(all),1
+310,answer largest city loc_2 countryid(country_name),answer largest city loc_2 countryid(country_name),1
+311,answer largest city loc_2 countryid(country_name),answer largest city loc_2 countryid(country_name),1
+312,answer largest city loc_2 countryid(country_name),answer largest city loc_2 countryid(country_name),1
+313,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+314,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+315,answer largest state(all),answer largest state(all),1
+316,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1
+317,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1
+318,answer capital city loc_2 largest state loc_2 countryid(country_name),answer capital city loc_2 largest state loc_2 countryid(country_name),1
+319,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+320,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+321,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+322,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+323,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+324,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+325,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+326,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+327,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+328,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+329,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+330,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+331,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+332,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+333,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+334,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+335,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+336,"answer capital loc_2 state loc_1 city cityid(city_name, _)","answer capital loc_2 state loc_1 city cityid(city_name, _)",1
+337,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+338,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+339,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+340,answer capital loc_2 largest state(all),answer capital loc_2 largest state(all),1
+341,answer capital loc_2 smallest state(all),answer capital loc_2 smallest state(all),1
+342,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+343,answer capital loc_2 most state next_to_2 state(all),answer capital loc_2 state next_to_2 most state(all),0
+344,answer capital loc_2 state next_to_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 state next_to_2 stateid(state_name),1
+345,answer capital loc_2 state loc_1 highest place(all),answer capital loc_2 state loc_1 highest place(all),1
+346,answer capital loc_2 state loc_1 highest place(all),answer capital loc_2 state loc_1 highest place(all),1
+347,answer capital loc_2 largest_one population_1 state(all),answer capital loc_2 state(all) largest_one population_1,0
+348,answer capital loc_2 largest_one density_1 state(all),answer capital loc_2 state(all) largest_one density_1,0
+349,answer capital loc_2 state loc_1 longest river(all),answer capital loc_2 state loc_1 longest river(all),1
+350,answer capital loc_2 largest_one population_1 state(all),answer capital loc_2 state(all) largest_one population_1,0
+351,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+352,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+353,answer capital loc_2 stateid(state_name),answer capital loc_2 stateid(state_name),1
+354,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0
+355,answer smallest_one population_1 city(all),answer city(all) smallest_one population_1,0
+356,answer sum area_1 state(all),answer sum area_1 state(all),1
+357,answer sum population_1 state(all),answer sum population_1 state(all),1
+358,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+359,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+360,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1
+361,answer elevation_1 highest place loc_2 countryid(country_name),answer elevation_1 highest place loc_2 countryid(country_name),1
+362,answer elevation_1 placeid(place_name),answer elevation_1 placeid(place_name),1
+363,answer elevation_1 highest mountain loc_2 stateid(state_name),answer elevation_1 highest mountain loc_2 stateid(state_name),1
+364,answer elevation_1 highest place loc_2 countryid(country_name),answer elevation_1 highest place loc_2 countryid(country_name),1
+365,answer high_point_1 stateid(state_name),answer high_point_1 stateid(state_name),1
+366,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+367,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+368,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+369,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1
+370,answer highest mountain loc_2 stateid(state_name),answer highest mountain loc_2 stateid(state_name),1
+371,answer highest mountain loc_2 stateid(state_name),answer highest mountain loc_2 stateid(state_name),1
+372,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1
+373,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1
+374,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+375,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+376,answer highest place loc_2 state loc_1 place elevation_2 0,answer highest place loc_2 state loc_1 elevation_2 place 0,0
+377,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+378,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+379,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+380,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+381,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+382,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+383,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+384,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+385,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+386,answer highest place loc_2 state next_to_2 stateid(state_name),answer highest place loc_2 state next_to_2 stateid(state_name),1
+387,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+388,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1
+389,answer highest place loc_2 smallest state(all),answer highest place loc_2 smallest state(all),1
+390,"answer highest place loc_2 state loc_1 capital cityid(city_name, _)","answer highest place loc_2 state loc_1 capital cityid(city_name, _)",1
+391,"answer highest place loc_2 state loc_1 capital cityid(city_name, _)","answer highest place loc_2 state loc_1 capital cityid(city_name, _)",1
+392,"answer highest place loc_2 state loc_1 capital cityid(city_name, _)","answer highest place loc_2 state loc_1 capital cityid(city_name, _)",1
+393,answer highest place loc_2 most state traverse_1 river(all),answer highest place loc_2 traverse_1 state most river(all),0
+394,answer highest place loc_2 smallest_one population_1 state(all),answer highest place loc_2 state(all) smallest_one population_1,0
+395,answer highest place loc_2 state next_to_2 stateid(state_name),answer highest place loc_2 state next_to_2 stateid(state_name),1
+396,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1
+397,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1
+398,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1
+399,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+400,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+401,answer highest place loc_2 largest_one area_1 state(all),answer highest place loc_2 state(all) largest_one area_1,0
+402,answer highest place loc_2 smallest_one density_1 state(all),answer highest place loc_2 state(all) smallest_one density_1,0
+403,answer highest place loc_2 countryid(country_name),answer highest place loc_2 countryid(country_name),1
+404,answer largest capital(all),answer largest capital(all),1
+405,answer largest capital city loc_2 countryid(country_name),answer largest capital city loc_2 countryid(country_name),1
+406,answer largest city loc_2 state next_to_2 stateid(state_name),answer largest city loc_2 state next_to_2 stateid(state_name),1
+407,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+408,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+409,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+410,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one city loc_2 stateid(state_name) population_1,0
+411,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+412,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+413,answer largest city loc_2 smallest state traverse_1 riverid(river_name),answer largest city loc_2 smallest state traverse_1 riverid(river_name),1
+414,answer largest city loc_2 state next_to_2 stateid(state_name),answer largest city loc_2 state next_to_2 stateid(state_name),1
+415,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+416,answer largest city loc_2 smallest state loc_2 countryid(country_name),answer largest city loc_2 smallest state loc_2 countryid(country_name),1
+417,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+418,answer largest city loc_2 stateid(state_name),answer largest city loc_2 stateid(state_name),1
+419,answer largest state traverse_1 riverid(river_name),answer largest state riverid(river_name) traverse_1,0
+420,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+421,answer largest state(all),answer largest state(all),1
+422,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1
+423,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1
+424,answer largest_one population_1 capital_1 state(all),answer largest_one state(all) capital_1 population_1,0
+425,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1
+426,answer largest state loc_2 countryid(country_name),answer largest state loc_2 countryid(country_name),1
+427,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1
+428,answer largest state next_to_2 stateid(state_name),answer largest state next_to_2 stateid(state_name),1
+429,answer largest state next_to_2 largest_one population_1 state(all),answer largest state next_to_2 state(all) largest_one population_1,0
+430,answer largest state next_to_2 state loc_1 lowest place loc_2 countryid(country_name),answer largest state next_to_2 state loc_1 lowest place loc_2 countryid(country_name),1
+431,answer largest state traverse_1 riverid(river_name),answer largest state traverse_1 riverid(river_name),1
+432,answer smallest_one population_1 state(all),answer smallest_one population_1 state(all),1
+433,answer len riverid(river_name),answer len riverid(river_name),1
+434,"answer len intersection riverid(colorado', river loc_2 stateid(state_name)",answer len intersection riverid(river_name) river loc_2 stateid(state_name),1
+435,answer len longest river loc_2 countryid(country_name),answer len longest river loc_2 countryid(country_name),1
+436,answer len longest river traverse_2 stateid(state_name),answer len longest river traverse_2 stateid(state_name),1
+437,answer len riverid(river_name),answer len riverid(river_name),1
+438,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0
+439,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0
+440,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0
+441,answer len most river traverse_2 state(all),answer len river traverse_2 most state(all),0
+442,answer longest river(all),answer longest river(all),1
+443,answer longest river traverse_2 stateid(state_name),answer longest river traverse_2 stateid(state_name),1
+444,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1
+445,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+446,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+447,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+448,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+449,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+450,answer longest river loc_2 stateid(state_name),answer longest river loc_2 stateid(state_name),1
+451,answer longest river loc_2 largest state(all),answer longest river loc_2 largest state(all),1
+452,answer longest river loc_2 smallest state loc_2 countryid(country_name),answer longest river loc_2 smallest state loc_2 countryid(country_name),1
+453,answer longest river loc_2 state loc_1 highest place(all),answer longest river loc_2 state loc_1 highest place(all),1
+454,answer longest river loc_2 most state loc_1 major city(all),answer longest river loc_2 state loc_1 most major city(all),0
+455,answer longest river loc_2 state next_to_2 stateid(state_name),answer longest river loc_2 state next_to_2 stateid(state_name),1
+456,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1
+457,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1
+458,answer longest exclude river(all) traverse_2 stateid(state_name),answer longest river(all) exclude traverse_2 stateid(state_name),0
+459,answer longest river traverse_2 state next_to_2 stateid(state_name),answer longest river traverse_2 state next_to_2 stateid(state_name),1
+460,answer longest river traverse_2 stateid(state_name),answer longest river traverse_2 stateid(state_name),1
+461,answer longest river traverse_2 state next_to_2 most state next_to_2 state(all),answer longest river traverse_2 state next_to_2 state next_to_2 most state(all),0
+462,answer longest river traverse_2 state next_to_2 stateid(state_name),answer longest river traverse_2 state next_to_2 stateid(state_name),1
+463,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+464,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+465,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+466,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+467,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+468,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+469,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+470,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+471,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+472,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+473,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+474,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1
+475,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1
+476,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+477,answer lowest place loc_2 state traverse_1 riverid(river_name),answer lowest place loc_2 state traverse_1 riverid(river_name),1
+478,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+479,answer lowest place loc_2 largest_one area_1 state(all),answer lowest place loc_2 state(all) largest_one area_1,0
+480,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1
+481,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+482,"answer highest place loc_2 cityid(city_name, _)","answer highest place loc_2 cityid(city_name, _)",1
+483,answer largest_one density_1 state loc_2 countryid(country_name),answer largest_one density_1 state loc_2 countryid(country_name),1
+484,answer largest_one population_1 capital loc_2 countryid(country_name),answer largest_one population_1 capital loc_2 countryid(country_name),1
+485,answer largest_one population_1 state next_to_2 stateid(state_name),answer largest_one population_1 state next_to_2 stateid(state_name),1
+486,answer largest_one population_1 city(all),answer largest_one population_1 city(all),1
+487,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one population_1 city loc_2 stateid(state_name),1
+488,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one population_1 city loc_2 stateid(state_name),1
+489,answer largest_one population_1 state(all),answer largest_one population_1 state(all),1
+490,answer largest_one population_1 state loc_2 countryid(country_name),answer largest_one population_1 state loc_2 countryid(country_name),1
+491,answer largest_one population_1 state traverse_1 riverid(river_name),answer largest_one population_1 state traverse_1 riverid(river_name),1
+492,answer state loc_1 lowest place(all),answer state loc_1 lowest place(all),1
+493,answer count state next_to_2 stateid(state_name),answer count next_to_2 state stateid(state_name),0
+494,"answer density_1 state loc_1 capital cityid(city_name, _)","answer density_1 state loc_1 capital cityid(city_name, _)",1
+495,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+496,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+497,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+498,answer density_1 largest state(all),answer density_1 largest state(all),1
+499,answer density_1 smallest state(all),answer density_1 smallest state(all),1
+500,answer density_1 smallest_one area_1 state(all),answer density_1 state(all) smallest_one area_1,0
+501,answer density_1 smallest_one population_1 state(all),answer density_1 state(all) smallest_one population_1,0
+502,answer density_1 stateid(state_name),answer density_1 stateid(state_name),1
+503,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+504,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+505,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+506,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+507,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+508,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+509,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+510,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+511,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+512,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+513,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+514,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+515,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+516,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+517,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+518,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+519,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+520,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+521,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+522,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+523,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+524,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+525,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+526,"answer population_1 city cityid(city_name, _)","answer population_1 cityid(city_name, _) city",0
+527,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+528,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+529,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+530,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+531,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+532,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+533,"answer population_1 cityid(seattle, wa","answer population_1 cityid(city_name, state_name)",1
+534,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+535,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+536,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+537,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+538,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+539,answer population_1 capital loc_2 largest state(all),answer population_1 capital loc_2 largest state(all),1
+540,answer population_1 capital loc_2 largest state traverse_1 riverid(river_name),answer population_1 capital loc_2 largest state traverse_1 riverid(river_name),1
+541,answer population_1 capital loc_2 smallest state(all),answer population_1 capital loc_2 smallest state(all),1
+542,answer population_1 largest city loc_2 largest_one area_1 state(all),answer population_1 largest city loc_2 state(all) largest_one area_1,0
+543,answer population_1 largest state(all),answer population_1 largest state(all),1
+544,answer population_1 largest state next_to_2 stateid(state_name),answer population_1 largest state next_to_2 stateid(state_name),1
+545,answer population_1 major city loc_2 stateid(state_name),answer population_1 major city loc_2 stateid(state_name),1
+546,answer smallest population_1 state(all),answer population_1 smallest state(all),0
+547,answer population_1 most state next_to_2 state(all),answer population_1 state next_to_2 most state(all),0
+548,answer population_1 largest_one density_1 state(all),answer population_1 state(all) largest_one density_1,0
+549,answer population_1 largest_one area_1 state(all),answer population_1 state(all) largest_one area_1,0
+550,"answer population_1 cityid(city_name, _)","answer population_1 cityid(city_name, _)",1
+551,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+552,answer population_1 stateid(state_name),answer population_1 stateid(state_name),1
+553,"answer population_1 cityid(city_name, state_name)","answer population_1 cityid(city_name, state_name)",1
+554,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+555,answer shortest river(all),answer shortest river(all),1
+556,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1
+557,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1
+558,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1
+559,answer shortest river loc_2 stateid(state_name),answer shortest river loc_2 stateid(state_name),1
+560,answer shortest river loc_2 countryid(country_name),answer shortest river loc_2 countryid(country_name),1
+561,answer shortest river loc_2 countryid(country_name),answer shortest river loc_2 countryid(country_name),1
+562,answer shortest river loc_2 countryid(country_name),answer shortest river loc_2 countryid(country_name),1
+563,answer size stateid(state_name),answer size stateid(state_name),1
+564,answer size stateid(state_name),answer size stateid(state_name),1
+565,answer size stateid(state_name),answer size stateid(state_name),1
+566,answer size capital loc_2 stateid(state_name),answer size capital loc_2 stateid(state_name),1
+567,answer size largest state loc_2 countryid(country_name),answer size largest state loc_2 countryid(country_name),1
+568,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1
+569,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1
+570,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1
+571,answer smallest city loc_2 largest state(all),answer smallest city loc_2 largest state(all),1
+572,answer smallest city loc_2 countryid(country_name),answer smallest city loc_2 countryid(country_name),1
+573,answer smallest city loc_2 countryid(country_name),answer smallest city loc_2 countryid(country_name),1
+574,answer smallest city loc_2 stateid(state_name),answer smallest city loc_2 stateid(state_name),1
+575,answer smallest city loc_2 smallest state loc_2 countryid(country_name),answer smallest city loc_2 smallest state loc_2 countryid(country_name),1
+576,answer smallest state next_to_2 stateid(state_name),answer smallest state next_to_2 stateid(state_name),1
+577,answer smallest state next_to_2 stateid(state_name),answer smallest state next_to_2 stateid(state_name),1
+578,answer smallest_one area_1 state(all),answer smallest_one state(all) area_1,0
+579,answer smallest state loc_2 countryid(country_name),answer smallest state loc_2 countryid(country_name),1
+580,answer smallest state next_to_2 stateid(state_name),answer smallest state next_to_2 stateid(state_name),1
+581,answer smallest most state next_to_2 state(all),answer smallest state next_to_2 most state(all),0
+582,answer smallest state traverse_1 riverid(river_name),answer smallest state riverid(river_name) traverse_1,0
+583,answer smallest state traverse_1 longest river(all),answer smallest state traverse_1 longest river(all),1
+584,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1
+585,answer state loc_1 highest place loc_2 countryid(country_name),answer state loc_1 highest place loc_2 countryid(country_name),1
+586,answer largest_one area_1 state(all),answer state(all) largest_one area_1,0
+587,answer largest_one density_1 state loc_2 countryid(country_name),answer state largest_one density_1 loc_2 countryid(country_name),0
+588,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+589,answer state loc_1 lowest place(all),answer state loc_1 lowest place(all),1
+590,answer smallest_one population_1 state(all),answer state(all) smallest_one population_1,0
+591,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+592,answer smallest_one area_1 state(all),answer state(all) smallest_one area_1,0
+593,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1
+594,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1
+595,answer area_1 countryid(country_name),answer area_1 countryid(country_name),1
+596,answer sum len river(all),answer sum len river(all),1
+597,answer sum population_1 state next_to_2 stateid(state_name),answer sum population_1 state next_to_2 stateid(state_name),1
+598,answer len riverid(river_name),answer len riverid(river_name),1
+599,answer major city loc_2 stateid(state_name),answer major city loc_2 stateid(state_name),1
+600,answer major river traverse_2 stateid(state_name),answer major river traverse_2 stateid(state_name),1
+601,answer mountain loc_2 stateid(state_name),answer mountain loc_2 stateid(state_name),1
+602,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+603,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+604,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+605,answer longest river loc_2 countryid(country_name),answer river longest loc_2 countryid(country_name),0
+606,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+607,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+608,answer river traverse_2 most state loc_1 city(all),answer river traverse_2 state loc_1 most city(all),0
+609,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+610,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+611,answer river traverse_2 most state next_to_2 state(all),answer river traverse_2 state next_to_2 most state(all),0
+612,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+613,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+614,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+615,answer river loc_2 state next_to_2 stateid(state_name),answer river loc_2 state next_to_2 stateid(state_name),1
+616,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+617,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+618,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+619,answer exclude river(all) traverse_2 stateid(state_name),answer river(all) exclude traverse_2 stateid(state_name),0
+620,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+621,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+622,answer river traverse_2 state next_to_1 stateid(state_name),answer river traverse_2 state stateid(state_name) next_to_1,0
+623,answer river traverse_2 state next_to_2 largest_one population_1 state(all),answer river traverse_2 state next_to_2 state(all) largest_one population_1,0
+624,answer river traverse_2 largest state(all),answer river traverse_2 largest state(all),1
+625,answer river traverse_2 largest_one population_1 state(all),answer river traverse_2 state(all) largest_one population_1,0
+626,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+627,"answer river traverse_2 cityid(city_name, state_name)","answer river traverse_2 cityid(city_name, state_name)",1
+628,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+629,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+630,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+631,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+632,answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),1
+633,"answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)","answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)",1
+634,answer river traverse_2 stateid(west virginia,answer river traverse_2 stateid(state_name),1
+635,answer river traverse_2 most state next_to_2 state(all),answer river traverse_2 state next_to_2 most state(all),0
+636,answer largest_one population_1 state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest_one population_1,0
+637,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+638,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0
+639,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+640,answer fewest state next_to_2 state(all),answer state next_to_2 fewest state(all),0
+641,answer fewest state next_to_2 exclude exclude state(all) stateid(state_name) stateid(state_name),answer state next_to_2 fewest state(all) exclude stateid(state_name) exclude stateid(state_name),0
+642,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0
+643,answer state next_to_2 smallest_one population_1 state(all),answer state next_to_2 state(all) smallest_one population_1,0
+644,answer state loc_1 highest place loc_2 countryid(country_name),answer state loc_1 highest place loc_2 countryid(country_name),1
+645,answer state loc_1 highest place loc_2 state traverse_1 riverid(river_name),answer state loc_1 highest place loc_2 state riverid(river_name) traverse_1,0
+646,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1
+647,answer exclude state(all) loc_1 river(all),answer state(all) loc_1 exclude river(all),0
+648,"answer state loc_1 capital cityid(city_name, _)","answer state loc_1 capital cityid(city_name, _)",1
+649,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+650,answer state loc_1 largest_one population_1 city(all),answer state loc_1 city(all) largest_one population_1,0
+651,answer state loc_1 largest_one population_1 city(all),answer state loc_1 city(all) largest_one population_1,0
+652,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+653,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1
+654,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+655,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+656,answer largest_one area_1 state(all),answer state(all) largest_one area_1,0
+657,answer state loc_1 largest capital(all),answer state loc_1 largest capital(all),1
+658,answer state loc_1 largest city(all),answer state loc_1 largest city(all),1
+659,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+660,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+661,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+662,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+663,answer state loc_1 longest river(all),answer state loc_1 longest river(all),1
+664,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+665,answer most state loc_1 city(all),answer state loc_1 most city(all),0
+666,answer most state loc_1 major city(all),answer state loc_1 most major city(all),0
+667,answer most state traverse_1 major river(all),answer state most major river(all) traverse_1,0
+668,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+669,answer most state loc_1 river(all),answer state loc_1 most river(all),0
+670,answer most state traverse_1 river(all),answer state most river(all) traverse_1,0
+671,answer state loc_1 shortest river(all),answer state loc_1 shortest river(all),1
+672,answer smallest_one area_1 state(all),answer state(all) smallest_one area_1,0
+673,answer state loc_1 smallest capital(all),answer state loc_1 smallest capital(all),1
+674,answer smallest_one population_1 state(all),answer state(all) smallest_one population_1,0
+675,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+676,answer smallest_one population_1 state(all),answer state(all) smallest_one population_1,0
+677,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+678,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+679,"answer state loc_1 capital cityid(city_name, _)","answer state cityid(city_name, _) capital loc_1",0
+680,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+681,"answer state loc_1 capital cityid(city_name, _)","answer state cityid(city_name, _) capital loc_1",0
+682,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+683,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+684,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+685,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+686,answer largest state(all),answer state(all) largest,0
+687,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+688,answer state most state loc_1 river(all),answer state state loc_1 most river(all),0
+689,answer largest_one population_1 state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest_one population_1,0
+690,answer largest state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest,0
+691,answer largest_one population_1 state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1 largest_one population_1,0
+692,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+693,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+694,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+695,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+696,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+697,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+698,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+699,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+700,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+701,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+702,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+703,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+704,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+705,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+706,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+707,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+708,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+709,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+710,answer state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 stateid(state_name),1
+711,answer state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 stateid(state_name),1
+712,answer state next_to_2 state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 state next_to_2 stateid(state_name),1
+713,answer state next_to_2 state next_to_2 state next_to_2 state next_to_2 stateid(state_name),answer state next_to_2 state next_to_2 state next_to_2 state next_to_2 stateid(state_name),1
+714,answer state next_to_2 state next_to_2 largest_one population_1 state(all),answer state next_to_2 state next_to_2 state(all) largest_one population_1,0
+715,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state riverid(river_name) traverse_1,0
+716,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state riverid(river_name) traverse_1,0
+717,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state riverid(river_name) traverse_1,0
+718,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+719,answer intersection state next_to_2 stateid(state_name) loc_1 major river(all),answer state next_to_2 stateid(state_name) intersection loc_1 major river(all),0
+720,answer state next_to_2 riverid(river_name),answer state next_to_2 riverid(river_name),1
+721,answer state next_to_2 largest_one population_1 state(all),answer state next_to_2 largest_one population_1 state(all),1
+722,answer state next_to_2 most state next_to_2 state(all),answer state next_to_2 state next_to_2 most state(all),0
+723,answer state next_to_2 most state loc_1 city(all),answer state next_to_2 state loc_1 most city(all),0
+724,answer state next_to_2 most state loc_1 major city(all),answer state next_to_2 state loc_1 most major city(all),0
+725,answer state next_to_2 smallest_one area_1 state(all),answer state next_to_2 state(all) smallest_one area_1,0
+726,answer state next_to_2 most state loc_1 city(all),answer state next_to_2 state loc_1 most city(all),0
+727,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+728,"answer state capital_2 cityid(city_name, _)","answer state capital_2 cityid(city_name, _)",1
+729,answer state loc_1 major river(all),answer state loc_1 major river(all),1
+730,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+731,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+732,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+733,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+734,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+735,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+736,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+737,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+738,answer state traverse_1 shortest river(all),answer state shortest river(all) traverse_1,0
+739,answer state loc_1 capital highest place(all),answer state loc_1 capital highest place(all),1
+740,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+741,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+742,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+743,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+744,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+745,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+746,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+747,answer exclude state(all) next_to_2 state(all),answer state(all) exclude next_to_2 state(all),0
+748,answer state loc_1 river riverid(river_name),answer state loc_1 river riverid(river_name),1
+749,answer state traverse_1 river(all),answer state river(all) traverse_1,0
+750,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+751,answer state high_point_2 higher_2 high_point_1 stateid(state_name),answer state high_point_2 higher_2 high_point_1 stateid(state_name),1
+752,"answer intersection state loc_2 countryid(country_name) loc_1 city cityid(city_name, _)","answer intersection state loc_2 countryid(country_name) loc_1 city cityid(city_name, _)",1
+753,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+754,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+755,answer largest_one population_1 city loc_2 stateid(state_name),answer stateid(state_name) city loc_2 largest_one population_1,0
+756,answer largest city(all),answer largest city(all),1
+757,answer loc_1 mountain(all),answer loc_1 mountain(all),1
+758,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+759,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+760,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+761,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+762,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+763,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+764,answer loc_1 stateid(state_name),answer loc_1 stateid(state_name),1
+765,answer loc_1 placeid(mount whitney,answer loc_1 placeid(place_name),1
+766,answer loc_1 placeid(mount whitney,answer loc_1 placeid(place_name),1
+767,answer loc_1 stateid(state_name),answer loc_1 stateid(state_name),1
+768,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+769,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+770,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+771,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+772,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+773,"answer loc_1 cityid(city_name, _)","answer loc_1 cityid(city_name, _)",1
+774,answer loc_1 riverid(river_name),answer loc_1 riverid(river_name),1
+775,answer highest mountain loc_2 countryid(country_name),answer highest mountain loc_2 countryid(country_name),1
+776,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+777,answer highest place loc_2 stateid(state_name),answer highest place loc_2 stateid(state_name),1
+778,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+779,answer lowest place loc_2 countryid(country_name),answer lowest place loc_2 countryid(country_name),1
+780,answer lowest place loc_2 stateid(state_name),answer lowest place loc_2 stateid(state_name),1
+781,answer largest_one population_1 city loc_2 stateid(state_name),answer largest_one population_1 city loc_2 stateid(state_name),1
+782,answer loc_1 smallest city(all),answer loc_1 smallest city(all),1
+783,answer capital loc_2 state next_to_2 stateid(state_name),answer capital loc_2 state next_to_2 stateid(state_name),1
+784,answer exclude capital(all) major city(all),answer capital(all) exclude major city(all),0
+785,answer largest_one population_1 city loc_2 stateid(state_name),answer city loc_2 stateid(state_name) largest_one population_1,0
+786,answer density_1 state traverse_1 longest river loc_2 countryid(country_name),answer density_1 state longest river loc_2 countryid(country_name) traverse_1,0
+787,answer highest exclude mountain(all) loc_2 stateid(state_name),answer highest mountain(all) exclude loc_2 stateid(state_name),0
+788,answer longest river loc_2 countryid(country_name),answer longest river loc_2 countryid(country_name),1
+789,answer lowest place loc_2 state traverse_1 riverid(river_name),answer lowest place loc_2 state riverid(river_name) traverse_1,0
+790,answer shortest river(all),answer shortest river(all),1
+791,answer smallest state(all),answer smallest state(all),1
+792,answer largest_one population_1 state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name) largest_one population_1,0
+793,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+794,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+795,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+796,answer most river traverse_2 state(all),answer river traverse_2 most state(all),0
+797,answer river loc_2 stateid(state_name),answer river loc_2 stateid(state_name),1
+798,answer exclude river(all) traverse_2 stateid(state_name),answer river(all) exclude traverse_2 stateid(state_name),0
+799,answer exclude river(all) traverse_2 countryid(country_name),answer river(all) exclude traverse_2 countryid(country_name),0
+800,answer river traverse_2 stateid(state_name),answer river traverse_2 stateid(state_name),1
+801,answer river traverse_2 state next_to_2 stateid(state_name),answer river traverse_2 state next_to_2 stateid(state_name),1
+802,"answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)","answer river traverse_2 state next_to_2 state loc_1 capital cityid(city_name, _)",1
+803,answer river traverse_2 fewest state loc_1 city(all),answer river traverse_2 state loc_1 fewest city(all),0
+804,answer river traverse_2 state loc_1 largest city loc_2 countryid(country_name),answer river traverse_2 state loc_1 largest city loc_2 countryid(country_name),1
+805,answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),answer river traverse_2 state loc_1 lowest place loc_2 countryid(country_name),1
+806,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+807,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+808,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+809,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0
+810,answer most state next_to_2 state(all),answer state next_to_2 most state(all),0
+811,answer smallest_one population_1 capital(all),answer capital(all) smallest_one population_1,0
+812,answer most state loc_1 river(all),answer state loc_1 most river(all),0
+813,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+814,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+815,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+816,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1
+817,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1
+818,answer state loc_1 highest place(all),answer state loc_1 highest place(all),1
+819,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+820,answer state loc_1 largest city(all),answer state loc_1 largest city(all),1
+821,answer largest_one density_1 state(all),answer state(all) largest_one density_1,0
+822,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+823,answer state loc_1 longest river(all),answer state loc_1 longest river(all),1
+824,answer state loc_1 lowest place(all),answer state loc_1 lowest place(all),1
+825,answer state loc_1 lowest place loc_2 next_to_2 stateid(state_name),answer state loc_1 lowest place loc_2 next_to_2 stateid(state_name),1
+826,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+827,answer most state loc_1 major city(all),answer state loc_1 most major city(all),0
+828,answer most state loc_1 major river(all),answer state loc_1 most major river(all),0
+829,answer most state traverse_1 major river(all),answer state most major river(all) traverse_1,0
+830,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+831,answer largest_one population_1 state(all),answer state(all) largest_one population_1,0
+832,answer most state loc_1 river(all),answer state loc_1 most river(all),0
+833,answer most state traverse_1 river(all),answer state most river(all) traverse_1,0
+834,answer state loc_1 riverid(river_name),answer state loc_1 riverid(river_name),1
+835,answer smallest_one area_1 state next_to_2 stateid(state_name),answer state smallest_one area_1 next_to_2 stateid(state_name),0
+836,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+837,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+838,answer smallest_one density_1 state(all),answer state(all) smallest_one density_1,0
+839,"answer state loc_1 cityid(city_name, _)","answer state cityid(city_name, _) loc_1",0
+840,answer state loc_1 placeid(place_name),answer state placeid(place_name) loc_1,0
+841,"answer state loc_1 city cityid(city_name, _)","answer state city cityid(city_name, _) loc_1",0
+842,answer state loc_1 largest city loc_2 stateid(state_name),answer state largest city loc_2 stateid(state_name) loc_1,0
+843,answer smallest state(all),answer state(all) smallest,0
+844,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+845,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+846,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+847,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+848,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+849,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+850,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+851,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+852,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+853,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+854,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+855,answer exclude state(all) next_to_2 state(all),answer state(all) next_to_2 exclude state(all),0
+856,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+857,answer state next_to_2 state traverse_1 riverid(river_name),answer state next_to_2 state traverse_1 riverid(river_name),1
+858,answer state next_to_2 stateid(state_name),answer state next_to_2 stateid(state_name),1
+859,answer state next_to_2 longest river loc_2 countryid(country_name),answer state next_to_2 longest river loc_2 countryid(country_name),1
+860,answer state next_to_2 riverid(river_name),answer state next_to_2 riverid(river_name),1
+861,answer state next_to_2 smallest_one area_1 state(all),answer state next_to_2 state(all) smallest_one area_1,0
+862,answer state loc_1 largest city capital_1 state(all),answer state loc_1 capital_1 city largest state(all),0
+863,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+864,answer exclude state(all) next_to_2 stateid(state_name),answer state(all) exclude next_to_2 stateid(state_name),0
+865,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+866,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+867,answer state traverse_1 longest river(all),answer state longest river(all) traverse_1,0
+868,answer state traverse_1 longest river(all),answer state longest river(all) traverse_1,0
+869,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+870,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+871,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+872,answer state traverse_1 riverid(river_name),answer state riverid(river_name) traverse_1,0
+873,"answer state loc_1 major city cityid(city_name, _)","answer state loc_1 major city cityid(city_name, _)",1
+874,answer state loc_1 river(all),answer state loc_1 river(all),1
+875,"answer state loc_1 city cityid(city_name, _)","answer state loc_1 city cityid(city_name, _)",1
+876,answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),1
+877,answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),answer state loc_1 place higher_2 highest place loc_2 stateid(state_name),1
+878,answer state traverse_1 longest river loc_2 countryid(country_name),answer state traverse_1 longest river loc_2 countryid(country_name),1
+879,answer largest_one density_1 city(all),answer city(all) largest_one density_1,0
